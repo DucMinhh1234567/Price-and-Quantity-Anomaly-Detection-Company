@@ -1,0 +1,1084 @@
+{
+  "generated_at": "2026-09-30T08:23:21",
+  "source": "data/csv/{nhap_khau,xuat_khau}",
+  "range_global": {
+    "start": "2009-01",
+    "end": "2026-08"
+  },
+  "overview": {
+    "n_files": 17,
+    "n_metric_series": 34,
+    "n_ok": 22,
+    "n_gaps": 10,
+    "n_insufficient": 2,
+    "total_candidate_spikes_z3": 282,
+    "n_spike_events": 282
+  },
+  "coverage_issues": [
+    {
+      "series_id": "san_pham_tu_sat_thep__nhap_khau__so_luong",
+      "start": "2009-01",
+      "end": "2026-08",
+      "n_valid": 0,
+      "absent_months": 0,
+      "null_in_rows": 212,
+      "missing_ratio": 1.0,
+      "status": "INSUFFICIENT"
+    },
+    {
+      "series_id": "san_pham_tu_sat_thep__xuat_khau__so_luong",
+      "start": "2009-01",
+      "end": "2026-08",
+      "n_valid": 0,
+      "absent_months": 0,
+      "null_in_rows": 212,
+      "missing_ratio": 1.0,
+      "status": "INSUFFICIENT"
+    },
+    {
+      "series_id": "than_da__nhap_khau__tri_gia",
+      "start": "2009-01",
+      "end": "2026-08",
+      "n_valid": 48,
+      "absent_months": 0,
+      "null_in_rows": 164,
+      "missing_ratio": 0.7736,
+      "status": "GAPS"
+    },
+    {
+      "series_id": "than_da__nhap_khau__so_luong",
+      "start": "2009-01",
+      "end": "2026-08",
+      "n_valid": 48,
+      "absent_months": 0,
+      "null_in_rows": 164,
+      "missing_ratio": 0.7736,
+      "status": "GAPS"
+    },
+    {
+      "series_id": "than_da__xuat_khau__so_luong",
+      "start": "2009-01",
+      "end": "2026-08",
+      "n_valid": 97,
+      "absent_months": 0,
+      "null_in_rows": 115,
+      "missing_ratio": 0.5425,
+      "status": "GAPS"
+    },
+    {
+      "series_id": "than_da__xuat_khau__tri_gia",
+      "start": "2009-01",
+      "end": "2026-08",
+      "n_valid": 97,
+      "absent_months": 0,
+      "null_in_rows": 115,
+      "missing_ratio": 0.5425,
+      "status": "GAPS"
+    },
+    {
+      "series_id": "ure__nhap_khau__so_luong",
+      "start": "2009-01",
+      "end": "2026-08",
+      "n_valid": 106,
+      "absent_months": 0,
+      "null_in_rows": 106,
+      "missing_ratio": 0.5,
+      "status": "GAPS"
+    },
+    {
+      "series_id": "ure__nhap_khau__tri_gia",
+      "start": "2009-01",
+      "end": "2026-08",
+      "n_valid": 106,
+      "absent_months": 0,
+      "null_in_rows": 106,
+      "missing_ratio": 0.5,
+      "status": "GAPS"
+    },
+    {
+      "series_id": "dau_tho__nhap_khau__so_luong",
+      "start": "2009-01",
+      "end": "2026-08",
+      "n_valid": 154,
+      "absent_months": 0,
+      "null_in_rows": 58,
+      "missing_ratio": 0.2736,
+      "status": "GAPS"
+    },
+    {
+      "series_id": "dau_tho__nhap_khau__tri_gia",
+      "start": "2009-01",
+      "end": "2026-08",
+      "n_valid": 154,
+      "absent_months": 0,
+      "null_in_rows": 58,
+      "missing_ratio": 0.2736,
+      "status": "GAPS"
+    },
+    {
+      "series_id": "clanhke_va_xi_mang__xuat_khau__so_luong",
+      "start": "2009-01",
+      "end": "2026-08",
+      "n_valid": 164,
+      "absent_months": 0,
+      "null_in_rows": 48,
+      "missing_ratio": 0.2264,
+      "status": "GAPS"
+    },
+    {
+      "series_id": "clanhke_va_xi_mang__xuat_khau__tri_gia",
+      "start": "2009-01",
+      "end": "2026-08",
+      "n_valid": 164,
+      "absent_months": 0,
+      "null_in_rows": 48,
+      "missing_ratio": 0.2264,
+      "status": "GAPS"
+    }
+  ],
+  "top_volatility_cv": [
+    {
+      "series_id": "ure__nhap_khau__tri_gia",
+      "n_valid": 106,
+      "cv": 1.0656,
+      "mom_median_abs_pct": 0.6773,
+      "spike_count_z3": 13.0,
+      "seasonal_r2": 0.1016
+    },
+    {
+      "series_id": "ure__nhap_khau__so_luong",
+      "n_valid": 106,
+      "cv": 1.0227,
+      "mom_median_abs_pct": 0.6788,
+      "spike_count_z3": 14.0,
+      "seasonal_r2": 0.1142
+    },
+    {
+      "series_id": "sat_thep_cac_loai__xuat_khau__tri_gia",
+      "n_valid": 212,
+      "cv": 0.787,
+      "mom_median_abs_pct": 0.1104,
+      "spike_count_z3": 8.0,
+      "seasonal_r2": 0.0097
+    },
+    {
+      "series_id": "dau_tho__nhap_khau__tri_gia",
+      "n_valid": 154,
+      "cv": 0.7753,
+      "mom_median_abs_pct": 0.2358,
+      "spike_count_z3": 12.0,
+      "seasonal_r2": 0.0421
+    },
+    {
+      "series_id": "than_da__nhap_khau__so_luong",
+      "n_valid": 48,
+      "cv": 0.7521,
+      "mom_median_abs_pct": 0.3161,
+      "spike_count_z3": 3.0,
+      "seasonal_r2": 0.0227
+    },
+    {
+      "series_id": "than_da__xuat_khau__so_luong",
+      "n_valid": 97,
+      "cv": 0.7375,
+      "mom_median_abs_pct": 0.2861,
+      "spike_count_z3": 8.0,
+      "seasonal_r2": 0.0755
+    },
+    {
+      "series_id": "phan_bon_cac_loai__xuat_khau__tri_gia",
+      "n_valid": 188,
+      "cv": 0.735,
+      "mom_median_abs_pct": 0.1903,
+      "spike_count_z3": 6.0,
+      "seasonal_r2": 0.028
+    },
+    {
+      "series_id": "sat_thep_cac_loai__xuat_khau__so_luong",
+      "n_valid": 212,
+      "cv": 0.728,
+      "mom_median_abs_pct": 0.1123,
+      "spike_count_z3": 10.0,
+      "seasonal_r2": 0.0085
+    },
+    {
+      "series_id": "dau_tho__nhap_khau__so_luong",
+      "n_valid": 154,
+      "cv": 0.714,
+      "mom_median_abs_pct": 0.2129,
+      "spike_count_z3": 15.0,
+      "seasonal_r2": 0.0479
+    },
+    {
+      "series_id": "dau_tho__xuat_khau__tri_gia",
+      "n_valid": 212,
+      "cv": 0.6957,
+      "mom_median_abs_pct": 0.212,
+      "spike_count_z3": 14.0,
+      "seasonal_r2": 0.0105
+    }
+  ],
+  "top_spike_series": [
+    {
+      "series_id": "khi_dot_hoa_long__nhap_khau__so_luong",
+      "spike_count_z3": 17.0,
+      "max_abs_robust_z": 19.1962,
+      "mom_median_abs_pct": 0.2887,
+      "n_valid": 200
+    },
+    {
+      "series_id": "dau_tho__nhap_khau__so_luong",
+      "spike_count_z3": 15.0,
+      "max_abs_robust_z": 20.4537,
+      "mom_median_abs_pct": 0.2129,
+      "n_valid": 154
+    },
+    {
+      "series_id": "ure__nhap_khau__so_luong",
+      "spike_count_z3": 14.0,
+      "max_abs_robust_z": 111.392,
+      "mom_median_abs_pct": 0.6788,
+      "n_valid": 106
+    },
+    {
+      "series_id": "san_pham_tu_sat_thep__nhap_khau__tri_gia",
+      "spike_count_z3": 14.0,
+      "max_abs_robust_z": 6.8413,
+      "mom_median_abs_pct": 0.084,
+      "n_valid": 200
+    },
+    {
+      "series_id": "dau_tho__xuat_khau__tri_gia",
+      "spike_count_z3": 14.0,
+      "max_abs_robust_z": 9.4939,
+      "mom_median_abs_pct": 0.212,
+      "n_valid": 212
+    },
+    {
+      "series_id": "dau_tho__xuat_khau__so_luong",
+      "spike_count_z3": 14.0,
+      "max_abs_robust_z": 8.3913,
+      "mom_median_abs_pct": 0.2339,
+      "n_valid": 212
+    },
+    {
+      "series_id": "ure__nhap_khau__tri_gia",
+      "spike_count_z3": 13.0,
+      "max_abs_robust_z": 45.4589,
+      "mom_median_abs_pct": 0.6773,
+      "n_valid": 106
+    },
+    {
+      "series_id": "dau_tho__nhap_khau__tri_gia",
+      "spike_count_z3": 12.0,
+      "max_abs_robust_z": 13.8824,
+      "mom_median_abs_pct": 0.2358,
+      "n_valid": 154
+    },
+    {
+      "series_id": "khi_dot_hoa_long__nhap_khau__tri_gia",
+      "spike_count_z3": 12.0,
+      "max_abs_robust_z": 17.1602,
+      "mom_median_abs_pct": 0.2705,
+      "n_valid": 200
+    },
+    {
+      "series_id": "gao__xuat_khau__so_luong",
+      "spike_count_z3": 12.0,
+      "max_abs_robust_z": 10.0927,
+      "mom_median_abs_pct": 0.1699,
+      "n_valid": 212
+    },
+    {
+      "series_id": "san_pham_tu_sat_thep__xuat_khau__tri_gia",
+      "spike_count_z3": 11.0,
+      "max_abs_robust_z": 10.8204,
+      "mom_median_abs_pct": 0.0999,
+      "n_valid": 212
+    },
+    {
+      "series_id": "sat_thep_cac_loai__xuat_khau__so_luong",
+      "spike_count_z3": 10.0,
+      "max_abs_robust_z": 6.2572,
+      "mom_median_abs_pct": 0.1123,
+      "n_valid": 212
+    }
+  ],
+  "missingness_top10": [
+    {
+      "series_id": "san_pham_tu_sat_thep__xuat_khau__so_luong",
+      "miss_pct": 100.0
+    },
+    {
+      "series_id": "san_pham_tu_sat_thep__nhap_khau__so_luong",
+      "miss_pct": 100.0
+    },
+    {
+      "series_id": "than_da__nhap_khau__so_luong",
+      "miss_pct": 77.4
+    },
+    {
+      "series_id": "than_da__nhap_khau__tri_gia",
+      "miss_pct": 77.4
+    },
+    {
+      "series_id": "than_da__xuat_khau__so_luong",
+      "miss_pct": 54.2
+    },
+    {
+      "series_id": "than_da__xuat_khau__tri_gia",
+      "miss_pct": 54.2
+    },
+    {
+      "series_id": "ure__nhap_khau__so_luong",
+      "miss_pct": 50.0
+    },
+    {
+      "series_id": "ure__nhap_khau__tri_gia",
+      "miss_pct": 50.0
+    },
+    {
+      "series_id": "dau_tho__nhap_khau__tri_gia",
+      "miss_pct": 27.4
+    },
+    {
+      "series_id": "dau_tho__nhap_khau__so_luong",
+      "miss_pct": 27.4
+    }
+  ],
+  "seasonality_top10": [
+    {
+      "series_id": "gao__xuat_khau__so_luong",
+      "seasonal_r2": 0.388,
+      "acf12": 0.516
+    },
+    {
+      "series_id": "gao__xuat_khau__tri_gia",
+      "seasonal_r2": 0.267,
+      "acf12": 0.57
+    },
+    {
+      "series_id": "xang_dau_cac_loai__nhap_khau__so_luong",
+      "seasonal_r2": 0.148,
+      "acf12": 0.244
+    },
+    {
+      "series_id": "phan_bon_cac_loai__nhap_khau__so_luong",
+      "seasonal_r2": 0.128,
+      "acf12": 0.178
+    },
+    {
+      "series_id": "ure__nhap_khau__so_luong",
+      "seasonal_r2": 0.114,
+      "acf12": 0.162
+    },
+    {
+      "series_id": "phan_bon_cac_loai__nhap_khau__tri_gia",
+      "seasonal_r2": 0.111,
+      "acf12": 0.276
+    },
+    {
+      "series_id": "xang_dau_cac_loai__nhap_khau__tri_gia",
+      "seasonal_r2": 0.103,
+      "acf12": 0.14
+    },
+    {
+      "series_id": "ure__nhap_khau__tri_gia",
+      "seasonal_r2": 0.102,
+      "acf12": 0.11
+    },
+    {
+      "series_id": "than_da__nhap_khau__tri_gia",
+      "seasonal_r2": 0.079,
+      "acf12": 0.156
+    },
+    {
+      "series_id": "than_da__xuat_khau__so_luong",
+      "seasonal_r2": 0.075,
+      "acf12": 0.588
+    }
+  ],
+  "unit_price": [
+    {
+      "series_id": "xang_dau_cac_loai__xuat_khau__don_gia",
+      "loai": "xuat_khau",
+      "ten_mat_hang": "xăng dầu các loại",
+      "n_valid": 212,
+      "median_unit_price": 676.9458,
+      "cv": 0.2994,
+      "spike_count_z3": 14,
+      "max_abs_robust_z": 13.3041
+    },
+    {
+      "series_id": "dau_tho__xuat_khau__don_gia",
+      "loai": "xuat_khau",
+      "ten_mat_hang": "dầu thô",
+      "n_valid": 212,
+      "median_unit_price": 597.3582,
+      "cv": 0.3132,
+      "spike_count_z3": 12,
+      "max_abs_robust_z": 10.362
+    },
+    {
+      "series_id": "xang_dau_cac_loai__nhap_khau__don_gia",
+      "loai": "nhap_khau",
+      "ten_mat_hang": "xăng dầu các loại",
+      "n_valid": 200,
+      "median_unit_price": 691.7816,
+      "cv": 0.3032,
+      "spike_count_z3": 10,
+      "max_abs_robust_z": 22.5631
+    },
+    {
+      "series_id": "dau_tho__nhap_khau__don_gia",
+      "loai": "nhap_khau",
+      "ten_mat_hang": "dầu thô",
+      "n_valid": 154,
+      "median_unit_price": 595.2536,
+      "cv": 0.3026,
+      "spike_count_z3": 9,
+      "max_abs_robust_z": 16.1066
+    },
+    {
+      "series_id": "phan_bon_cac_loai__xuat_khau__don_gia",
+      "loai": "xuat_khau",
+      "ten_mat_hang": "phân bón các loại",
+      "n_valid": 188,
+      "median_unit_price": 368.0636,
+      "cv": 0.2525,
+      "spike_count_z3": 7,
+      "max_abs_robust_z": 9.1949
+    },
+    {
+      "series_id": "khi_dot_hoa_long__nhap_khau__don_gia",
+      "loai": "nhap_khau",
+      "ten_mat_hang": "khí đốt hóa lỏng",
+      "n_valid": 200,
+      "median_unit_price": 647.6006,
+      "cv": 0.2853,
+      "spike_count_z3": 7,
+      "max_abs_robust_z": 9.5536
+    },
+    {
+      "series_id": "ure__nhap_khau__don_gia",
+      "loai": "nhap_khau",
+      "ten_mat_hang": "ure",
+      "n_valid": 105,
+      "median_unit_price": 0.335,
+      "cv": 0.2823,
+      "spike_count_z3": 7,
+      "max_abs_robust_z": 29.7316
+    },
+    {
+      "series_id": "sat_thep_cac_loai__xuat_khau__don_gia",
+      "loai": "xuat_khau",
+      "ten_mat_hang": "sắt thép các loại",
+      "n_valid": 212,
+      "median_unit_price": 727.5486,
+      "cv": 0.1737,
+      "spike_count_z3": 7,
+      "max_abs_robust_z": 4.7558
+    },
+    {
+      "series_id": "sat_thep_cac_loai__nhap_khau__don_gia",
+      "loai": "nhap_khau",
+      "ten_mat_hang": "sắt thép các loại",
+      "n_valid": 200,
+      "median_unit_price": 706.6849,
+      "cv": 0.2193,
+      "spike_count_z3": 6,
+      "max_abs_robust_z": 6.876
+    },
+    {
+      "series_id": "phe_lieu_sat_thep__nhap_khau__don_gia",
+      "loai": "nhap_khau",
+      "ten_mat_hang": "phế liệu sắt thép",
+      "n_valid": 200,
+      "median_unit_price": 360.7681,
+      "cv": 0.2166,
+      "spike_count_z3": 6,
+      "max_abs_robust_z": 6.4342
+    },
+    {
+      "series_id": "phan_bon_cac_loai__nhap_khau__don_gia",
+      "loai": "nhap_khau",
+      "ten_mat_hang": "phân bón các loại",
+      "n_valid": 200,
+      "median_unit_price": 324.2329,
+      "cv": 0.1982,
+      "spike_count_z3": 6,
+      "max_abs_robust_z": 5.5195
+    },
+    {
+      "series_id": "than_da__xuat_khau__don_gia",
+      "loai": "xuat_khau",
+      "ten_mat_hang": "than đá",
+      "n_valid": 97,
+      "median_unit_price": 83.9516,
+      "cv": 0.2592,
+      "spike_count_z3": 6,
+      "max_abs_robust_z": 14.6084
+    },
+    {
+      "series_id": "than_da__nhap_khau__don_gia",
+      "loai": "nhap_khau",
+      "ten_mat_hang": "than đá",
+      "n_valid": 48,
+      "median_unit_price": 101.487,
+      "cv": 0.2562,
+      "spike_count_z3": 5,
+      "max_abs_robust_z": 6.7345
+    },
+    {
+      "series_id": "clanhke_va_xi_mang__xuat_khau__don_gia",
+      "loai": "xuat_khau",
+      "ten_mat_hang": "clanhke và xi măng",
+      "n_valid": 164,
+      "median_unit_price": 39.7792,
+      "cv": 0.0805,
+      "spike_count_z3": 5,
+      "max_abs_robust_z": 5.8209
+    },
+    {
+      "series_id": "gao__xuat_khau__don_gia",
+      "loai": "xuat_khau",
+      "ten_mat_hang": "gạo",
+      "n_valid": 212,
+      "median_unit_price": 481.8392,
+      "cv": 0.1215,
+      "spike_count_z3": 3,
+      "max_abs_robust_z": 4.1089
+    }
+  ],
+  "recent_spikes": [
+    {
+      "series_id": "xang_dau_cac_loai__xuat_khau__tri_gia",
+      "loai": "xuat_khau",
+      "ten_mat_hang": "xăng dầu các loại",
+      "metric": "tri_gia",
+      "thang_nam": "2026-04",
+      "value": 135242340.0,
+      "mom_pct": 14.0354,
+      "robust_z": 35.2238
+    },
+    {
+      "series_id": "xang_dau_cac_loai__xuat_khau__so_luong",
+      "loai": "xuat_khau",
+      "ten_mat_hang": "xăng dầu các loại",
+      "metric": "so_luong",
+      "thang_nam": "2026-04",
+      "value": 109502.0,
+      "mom_pct": 6.2174,
+      "robust_z": 16.5529
+    },
+    {
+      "series_id": "dau_tho__xuat_khau__tri_gia",
+      "loai": "xuat_khau",
+      "ten_mat_hang": "dầu thô",
+      "metric": "tri_gia",
+      "thang_nam": "2026-04",
+      "value": 399820256.0,
+      "mom_pct": 6.683,
+      "robust_z": 9.4939
+    },
+    {
+      "series_id": "khi_dot_hoa_long__nhap_khau__so_luong",
+      "loai": "nhap_khau",
+      "ten_mat_hang": "khí đốt hóa lỏng",
+      "metric": "so_luong",
+      "thang_nam": "2025-03",
+      "value": 279508.0,
+      "mom_pct": 2.0223,
+      "robust_z": 9.0858
+    },
+    {
+      "series_id": "dau_tho__xuat_khau__tri_gia",
+      "loai": "xuat_khau",
+      "ten_mat_hang": "dầu thô",
+      "metric": "tri_gia",
+      "thang_nam": "2026-02",
+      "value": 160847681.0,
+      "mom_pct": 2.8842,
+      "robust_z": 7.6002
+    },
+    {
+      "series_id": "khi_dot_hoa_long__nhap_khau__tri_gia",
+      "loai": "nhap_khau",
+      "ten_mat_hang": "khí đốt hóa lỏng",
+      "metric": "tri_gia",
+      "thang_nam": "2025-03",
+      "value": 183292220.0,
+      "mom_pct": 1.8713,
+      "robust_z": 7.2749
+    },
+    {
+      "series_id": "dau_tho__xuat_khau__so_luong",
+      "loai": "xuat_khau",
+      "ten_mat_hang": "dầu thô",
+      "metric": "so_luong",
+      "thang_nam": "2026-02",
+      "value": 276724.0,
+      "mom_pct": 2.7719,
+      "robust_z": 7.2023
+    },
+    {
+      "series_id": "ure__nhap_khau__so_luong",
+      "loai": "nhap_khau",
+      "ten_mat_hang": "ure",
+      "metric": "so_luong",
+      "thang_nam": "2024-09",
+      "value": 35.403,
+      "mom_pct": 4.6267,
+      "robust_z": 7.0982
+    },
+    {
+      "series_id": "ure__nhap_khau__tri_gia",
+      "loai": "nhap_khau",
+      "ten_mat_hang": "ure",
+      "metric": "tri_gia",
+      "thang_nam": "2024-09",
+      "value": 12.5281,
+      "mom_pct": 4.5875,
+      "robust_z": 6.7371
+    },
+    {
+      "series_id": "ure__nhap_khau__tri_gia",
+      "loai": "nhap_khau",
+      "ten_mat_hang": "ure",
+      "metric": "tri_gia",
+      "thang_nam": "2025-07",
+      "value": 41.7816,
+      "mom_pct": 3.6192,
+      "robust_z": 5.9674
+    },
+    {
+      "series_id": "phan_bon_cac_loai__nhap_khau__tri_gia",
+      "loai": "nhap_khau",
+      "ten_mat_hang": "phân bón các loại",
+      "metric": "tri_gia",
+      "thang_nam": "2025-06",
+      "value": 302549185.0,
+      "mom_pct": 0.7628,
+      "robust_z": 5.96
+    },
+    {
+      "series_id": "dau_tho__xuat_khau__so_luong",
+      "loai": "xuat_khau",
+      "ten_mat_hang": "dầu thô",
+      "metric": "so_luong",
+      "thang_nam": "2026-04",
+      "value": 387549.0,
+      "mom_pct": 3.8383,
+      "robust_z": 5.6888
+    },
+    {
+      "series_id": "phe_lieu_sat_thep__nhap_khau__tri_gia",
+      "loai": "nhap_khau",
+      "ten_mat_hang": "phế liệu sắt thép",
+      "metric": "tri_gia",
+      "thang_nam": "2025-12",
+      "value": 226822419.0,
+      "mom_pct": 0.5937,
+      "robust_z": 5.551
+    },
+    {
+      "series_id": "xang_dau_cac_loai__nhap_khau__so_luong",
+      "loai": "nhap_khau",
+      "ten_mat_hang": "xăng dầu các loại",
+      "metric": "so_luong",
+      "thang_nam": "2026-06",
+      "value": 939105.0,
+      "mom_pct": 0.9788,
+      "robust_z": 5.4293
+    },
+    {
+      "series_id": "ure__nhap_khau__so_luong",
+      "loai": "nhap_khau",
+      "ten_mat_hang": "ure",
+      "metric": "so_luong",
+      "thang_nam": "2025-07",
+      "value": 107.379,
+      "mom_pct": 3.6076,
+      "robust_z": 5.2451
+    }
+  ],
+  "charts": [
+    {
+      "id": "xang_dau_cac_loai__nhap_khau__so_luong",
+      "title": "xang_dau_cac_loai · nhap_khau · so_luong",
+      "categories": [
+        "2010-01",
+        "2010-06",
+        "2010-11",
+        "2011-04",
+        "2011-09",
+        "2012-02",
+        "2012-07",
+        "2012-12",
+        "2013-05",
+        "2013-10",
+        "2014-03",
+        "2014-08",
+        "2015-01",
+        "2015-06",
+        "2015-11",
+        "2016-04",
+        "2016-09",
+        "2017-02",
+        "2017-07",
+        "2017-12",
+        "2018-05",
+        "2018-10",
+        "2019-03",
+        "2019-08",
+        "2020-01",
+        "2020-06",
+        "2020-11",
+        "2021-04",
+        "2021-09",
+        "2022-02",
+        "2022-07",
+        "2022-12",
+        "2023-05",
+        "2023-10",
+        "2024-03",
+        "2024-08",
+        "2025-01",
+        "2025-06",
+        "2025-11",
+        "2026-04",
+        "2026-08"
+      ],
+      "values": [
+        754083.0,
+        798277.0,
+        488982.0,
+        1159088.0,
+        959807.0,
+        764332.0,
+        804108.0,
+        561757.0,
+        713445.0,
+        669507.0,
+        711369.0,
+        709706.0,
+        734261.0,
+        764664.0,
+        938346.0,
+        1359890.0,
+        805223.0,
+        789907.0,
+        1164683.0,
+        1235385.0,
+        1222042.0,
+        653633.0,
+        945105.0,
+        867731.0,
+        753705.0,
+        1091574.0,
+        589538.0,
+        746789.0,
+        305776.0,
+        743414.0,
+        652269.0,
+        936222.0,
+        911513.0,
+        756345.0,
+        1063708.0,
+        690847.0,
+        801260.0,
+        1000486.0,
+        647484.0,
+        771932.0,
+        1164327.0
+      ]
+    },
+    {
+      "id": "gao__xuat_khau__so_luong",
+      "title": "gao · xuat_khau · so_luong",
+      "categories": [
+        "2009-01",
+        "2009-06",
+        "2009-11",
+        "2010-04",
+        "2010-09",
+        "2011-02",
+        "2011-07",
+        "2011-12",
+        "2012-05",
+        "2012-10",
+        "2013-03",
+        "2013-08",
+        "2014-01",
+        "2014-06",
+        "2014-11",
+        "2015-04",
+        "2015-09",
+        "2016-02",
+        "2016-07",
+        "2016-12",
+        "2017-05",
+        "2017-10",
+        "2018-03",
+        "2018-08",
+        "2019-01",
+        "2019-06",
+        "2019-11",
+        "2020-04",
+        "2020-09",
+        "2021-02",
+        "2021-07",
+        "2021-12",
+        "2022-05",
+        "2022-10",
+        "2023-03",
+        "2023-08",
+        "2024-01",
+        "2024-06",
+        "2024-11",
+        "2025-04",
+        "2025-09",
+        "2026-02",
+        "2026-07",
+        "2026-08"
+      ],
+      "values": [
+        302318.0,
+        574686.0,
+        230298.0,
+        758672.0,
+        388167.0,
+        493872.0,
+        652421.0,
+        324860.0,
+        742434.0,
+        656561.0,
+        741812.0,
+        650021.0,
+        364757.0,
+        539454.0,
+        449057.0,
+        719589.0,
+        462770.0,
+        437647.0,
+        281032.0,
+        364718.0,
+        558898.0,
+        483029.0,
+        653828.0,
+        603660.0,
+        431094.0,
+        597460.0,
+        363610.0,
+        531361.0,
+        384340.0,
+        307711.0,
+        446831.0,
+        494289.0,
+        708836.0,
+        712872.0,
+        959466.0,
+        920709.0,
+        494893.0,
+        516064.0,
+        703475.0,
+        1113043.0,
+        466800.0,
+        621837.0,
+        471814.0,
+        538856.0
+      ]
+    },
+    {
+      "id": "sat_thep_cac_loai__nhap_khau__so_luong",
+      "title": "sat_thep_cac_loai · nhap_khau · so_luong",
+      "categories": [
+        "2010-01",
+        "2010-06",
+        "2010-11",
+        "2011-04",
+        "2011-09",
+        "2012-02",
+        "2012-07",
+        "2012-12",
+        "2013-05",
+        "2013-10",
+        "2014-03",
+        "2014-08",
+        "2015-01",
+        "2015-06",
+        "2015-11",
+        "2016-04",
+        "2016-09",
+        "2017-02",
+        "2017-07",
+        "2017-12",
+        "2018-05",
+        "2018-10",
+        "2019-03",
+        "2019-08",
+        "2020-01",
+        "2020-06",
+        "2020-11",
+        "2021-04",
+        "2021-09",
+        "2022-02",
+        "2022-07",
+        "2022-12",
+        "2023-05",
+        "2023-10",
+        "2024-03",
+        "2024-08",
+        "2025-01",
+        "2025-06",
+        "2025-11",
+        "2026-04",
+        "2026-08"
+      ],
+      "values": [
+        534481.0,
+        724108.0,
+        824938.0,
+        729832.0,
+        524270.0,
+        702061.0,
+        629156.0,
+        605168.0,
+        942498.0,
+        916515.0,
+        837183.0,
+        1014567.0,
+        1043251.0,
+        1455602.0,
+        1240903.0,
+        1577641.0,
+        1593079.0,
+        1501973.0,
+        1087038.0,
+        1101405.0,
+        1402848.0,
+        1132379.0,
+        1349491.0,
+        1280118.0,
+        953169.0,
+        1191119.0,
+        1043740.0,
+        1347714.0,
+        842680.0,
+        895562.0,
+        908788.0,
+        953416.0,
+        837267.0,
+        1303269.0,
+        1435600.0,
+        1329517.0,
+        944426.0,
+        1163865.0,
+        1517028.0,
+        1426174.0,
+        1355723.0
+      ]
+    },
+    {
+      "id": "dau_tho__xuat_khau__so_luong",
+      "title": "dau_tho · xuat_khau · so_luong",
+      "categories": [
+        "2009-01",
+        "2009-06",
+        "2009-11",
+        "2010-04",
+        "2010-09",
+        "2011-02",
+        "2011-07",
+        "2011-12",
+        "2012-05",
+        "2012-10",
+        "2013-03",
+        "2013-08",
+        "2014-01",
+        "2014-06",
+        "2014-11",
+        "2015-04",
+        "2015-09",
+        "2016-02",
+        "2016-07",
+        "2016-12",
+        "2017-05",
+        "2017-10",
+        "2018-03",
+        "2018-08",
+        "2019-01",
+        "2019-06",
+        "2019-11",
+        "2020-04",
+        "2020-09",
+        "2021-02",
+        "2021-07",
+        "2021-12",
+        "2022-05",
+        "2022-10",
+        "2023-03",
+        "2023-08",
+        "2024-01",
+        "2024-06",
+        "2024-11",
+        "2025-04",
+        "2025-09",
+        "2026-02",
+        "2026-07",
+        "2026-08"
+      ],
+      "values": [
+        1389101.0,
+        1148118.0,
+        658320.0,
+        571419.0,
+        552157.0,
+        720167.0,
+        912397.0,
+        559801.0,
+        672912.0,
+        798030.0,
+        727515.0,
+        717767.0,
+        525185.0,
+        785909.0,
+        854406.0,
+        1003774.0,
+        670189.0,
+        638594.0,
+        550504.0,
+        512729.0,
+        676618.0,
+        461260.0,
+        321667.0,
+        370097.0,
+        490211.0,
+        329484.0,
+        261887.0,
+        425357.0,
+        413728.0,
+        143591.0,
+        306218.0,
+        215228.0,
+        202070.0,
+        394325.0,
+        262297.0,
+        314119.0,
+        178797.0,
+        159209.0,
+        151085.0,
+        255325.0,
+        152609.0,
+        276724.0,
+        97126.0,
+        42000.0
+      ]
+    }
+  ],
+  "method": {
+    "spike_rule": "robust_z(|MoM|) >= 3.0 with rolling median/MAD window=12",
+    "seasonal_r2": "1 - Var(y - month_mean)/Var(y)",
+    "note": "Candidate spikes are exploratory flags, not labeled anomalies."
+  }
+}

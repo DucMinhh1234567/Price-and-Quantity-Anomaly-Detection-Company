@@ -1,0 +1,610 @@
+{
+  "created_utc": "2026-09-29T09:16:55.526335+00:00",
+  "scope": "xuatnhapkhau; all-target missingness and eligible-target cumulative checks",
+  "target_candidates_sha256": "2c865fabc8ac995acf659f654540c15feba2e6f71df669e20f7888fa0d3c5d36",
+  "registry_sha256": "48431ca3993928b54742727b7d6f4ccc27c0b39fb767c443284dbe4b32fbab0a",
+  "mappings": [
+    {
+      "series_id": "than_da__nhap_khau__so_luong",
+      "source_commodity": "than_da",
+      "mapping_basis": "EXACT_NORMALIZED_LABEL"
+    },
+    {
+      "series_id": "than_da__nhap_khau__tri_gia",
+      "source_commodity": "than_da",
+      "mapping_basis": "EXACT_NORMALIZED_LABEL"
+    },
+    {
+      "series_id": "than_da__xuat_khau__so_luong",
+      "source_commodity": "than_da",
+      "mapping_basis": "EXACT_NORMALIZED_LABEL"
+    },
+    {
+      "series_id": "than_da__xuat_khau__tri_gia",
+      "source_commodity": "than_da",
+      "mapping_basis": "EXACT_NORMALIZED_LABEL"
+    },
+    {
+      "series_id": "dau_tho__nhap_khau__so_luong",
+      "source_commodity": "dau_tho",
+      "mapping_basis": "EXACT_NORMALIZED_LABEL"
+    },
+    {
+      "series_id": "dau_tho__nhap_khau__tri_gia",
+      "source_commodity": "dau_tho",
+      "mapping_basis": "EXACT_NORMALIZED_LABEL"
+    },
+    {
+      "series_id": "dau_tho__xuat_khau__so_luong",
+      "source_commodity": "dau_tho",
+      "mapping_basis": "EXACT_NORMALIZED_LABEL"
+    },
+    {
+      "series_id": "dau_tho__xuat_khau__tri_gia",
+      "source_commodity": "dau_tho",
+      "mapping_basis": "EXACT_NORMALIZED_LABEL"
+    },
+    {
+      "series_id": "xang_dau_cac_loai__nhap_khau__so_luong",
+      "source_commodity": "xang_dau_cac_loai",
+      "mapping_basis": "EXACT_NORMALIZED_LABEL"
+    },
+    {
+      "series_id": "xang_dau_cac_loai__nhap_khau__tri_gia",
+      "source_commodity": "xang_dau_cac_loai",
+      "mapping_basis": "EXACT_NORMALIZED_LABEL"
+    },
+    {
+      "series_id": "xang_dau_cac_loai__xuat_khau__so_luong",
+      "source_commodity": "xang_dau_cac_loai",
+      "mapping_basis": "EXACT_NORMALIZED_LABEL"
+    },
+    {
+      "series_id": "xang_dau_cac_loai__xuat_khau__tri_gia",
+      "source_commodity": "xang_dau_cac_loai",
+      "mapping_basis": "EXACT_NORMALIZED_LABEL"
+    },
+    {
+      "series_id": "phan_bon_cac_loai__nhap_khau__so_luong",
+      "source_commodity": "phan_bon_cac_loai",
+      "mapping_basis": "EXACT_NORMALIZED_LABEL"
+    },
+    {
+      "series_id": "phan_bon_cac_loai__nhap_khau__tri_gia",
+      "source_commodity": "phan_bon_cac_loai",
+      "mapping_basis": "EXACT_NORMALIZED_LABEL"
+    },
+    {
+      "series_id": "phan_bon_cac_loai__xuat_khau__so_luong",
+      "source_commodity": "phan_bon_cac_loai",
+      "mapping_basis": "EXACT_NORMALIZED_LABEL"
+    },
+    {
+      "series_id": "phan_bon_cac_loai__xuat_khau__tri_gia",
+      "source_commodity": "phan_bon_cac_loai",
+      "mapping_basis": "EXACT_NORMALIZED_LABEL"
+    },
+    {
+      "series_id": "sat_thep_cac_loai__nhap_khau__so_luong",
+      "source_commodity": "sat_thep_cac_loai",
+      "mapping_basis": "EXACT_NORMALIZED_LABEL"
+    },
+    {
+      "series_id": "sat_thep_cac_loai__nhap_khau__tri_gia",
+      "source_commodity": "sat_thep_cac_loai",
+      "mapping_basis": "EXACT_NORMALIZED_LABEL"
+    },
+    {
+      "series_id": "sat_thep_cac_loai__xuat_khau__so_luong",
+      "source_commodity": "sat_thep_cac_loai",
+      "mapping_basis": "EXACT_NORMALIZED_LABEL"
+    },
+    {
+      "series_id": "sat_thep_cac_loai__xuat_khau__tri_gia",
+      "source_commodity": "sat_thep_cac_loai",
+      "mapping_basis": "EXACT_NORMALIZED_LABEL"
+    },
+    {
+      "series_id": "khi_dot_hoa_long__nhap_khau__so_luong",
+      "source_commodity": "khi_dot_hoa_long",
+      "mapping_basis": "EXACT_NORMALIZED_LABEL"
+    },
+    {
+      "series_id": "khi_dot_hoa_long__nhap_khau__tri_gia",
+      "source_commodity": "khi_dot_hoa_long",
+      "mapping_basis": "EXACT_NORMALIZED_LABEL"
+    },
+    {
+      "series_id": "ure__nhap_khau__so_luong",
+      "source_commodity": "ure",
+      "mapping_basis": "EXACT_NORMALIZED_LABEL"
+    },
+    {
+      "series_id": "ure__nhap_khau__tri_gia",
+      "source_commodity": "ure",
+      "mapping_basis": "EXACT_NORMALIZED_LABEL"
+    },
+    {
+      "series_id": "phoi_thep__nhap_khau__so_luong",
+      "source_commodity": "san_pham_tu_sat_thep",
+      "mapping_basis": "USER_CONFIRMED_PROJECT_MAPPING"
+    },
+    {
+      "series_id": "phoi_thep__nhap_khau__tri_gia",
+      "source_commodity": "san_pham_tu_sat_thep",
+      "mapping_basis": "USER_CONFIRMED_PROJECT_MAPPING"
+    },
+    {
+      "series_id": "phe_lieu_sat_thep__nhap_khau__so_luong",
+      "source_commodity": "phe_lieu_sat_thep",
+      "mapping_basis": "EXACT_NORMALIZED_LABEL"
+    },
+    {
+      "series_id": "phe_lieu_sat_thep__nhap_khau__tri_gia",
+      "source_commodity": "phe_lieu_sat_thep",
+      "mapping_basis": "EXACT_NORMALIZED_LABEL"
+    },
+    {
+      "series_id": "gao__xuat_khau__so_luong",
+      "source_commodity": "gao",
+      "mapping_basis": "EXACT_NORMALIZED_LABEL"
+    },
+    {
+      "series_id": "gao__xuat_khau__tri_gia",
+      "source_commodity": "gao",
+      "mapping_basis": "EXACT_NORMALIZED_LABEL"
+    },
+    {
+      "series_id": "clanhke_va_xi_mang__xuat_khau__so_luong",
+      "source_commodity": "clanhke_va_xi_mang",
+      "mapping_basis": "EXACT_NORMALIZED_LABEL"
+    },
+    {
+      "series_id": "clanhke_va_xi_mang__xuat_khau__tri_gia",
+      "source_commodity": "clanhke_va_xi_mang",
+      "mapping_basis": "EXACT_NORMALIZED_LABEL"
+    }
+  ],
+  "files": [
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=dầu thô/part-00000-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "cc68b2d300f64a31f502122224c82390814dbea25dab9215b71695051e3fcd48"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=dầu thô/part-00001-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "1dcb51bb160a36eb9d48dc6f16f79c96a90a7069733d4e764543437987e06f99"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=dầu thô/part-00002-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "1b5a37d02d8f3c692601671b4ec86836740b1f415d32b9297c3204a79c65c35f"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=dầu thô/part-00003-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "ed5673d6f564ababdc7e88c090a38e046720b8325e9a2b39ad18b5f9903380c1"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=dầu thô/part-00004-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "ebc9a4f7c8168a453cfe3bd9a9790a2f1a43c31f861f5bea06f00cd6b7747228"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=dầu thô/part-00005-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "6367e766163dc8682d86e042284eacabf06f2616d70d23b83493af79a8761d07"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=dầu thô/part-00006-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "837f137783d7f272829dd4aa0f74f33c1064510e776c0122c659da0d30791bf7"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=khí đốt hóa lỏng/part-00000-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "50bb13b7364563f0007c724027138350465724871d75480e49d8b13ff729985a"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=khí đốt hóa lỏng/part-00001-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "323e895b5fc1682506ab553d80294dff919846b0624a650a92ba994b2b9bcbf5"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=khí đốt hóa lỏng/part-00002-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "2dba5ebc6a122f14a5459b1e4c6c3f5db6c378755b907bdbb75e09d048476e61"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=khí đốt hóa lỏng/part-00003-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "d1ba72151c5ed90c56f22c6b32cd125f70faba770f588a8f9d7c092c70eccc2c"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=khí đốt hóa lỏng/part-00004-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "9d251defe25f571541954467860785cd5b540c91daa2e87cb1a473f7f0cf9dae"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=khí đốt hóa lỏng/part-00005-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "a737e75ce0b03260127454d6eb7484bbcb880bab160de74033503cd22fe37281"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=khí đốt hóa lỏng/part-00006-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "144ce00de65e6ec20db1c838e25d6d40dbf10cdeed52fbb982b43be68e0f5861"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=phân bón các loại/part-00000-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "b2c9537a45f552c753e79afb951b872884e8a6f7351b04ad0e577b4905d68135"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=phân bón các loại/part-00001-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "4c42aec1b6151f35f4c5b9d421b75aed87b2f555acdd7e55e04e7526e36fe937"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=phân bón các loại/part-00002-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "700250ed438bfe643aa95d603d95d97c957439b9342249a839bc10480e22d500"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=phân bón các loại/part-00003-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "7afa1c0efb6777e662a68b800d8926addf6eb3e0b0ae76dc378c3b1898c667bc"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=phân bón các loại/part-00004-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "251fab250aae55a3fa5663d5c5432cfbbd91d2188631fc19f1febe3aa6a7172b"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=phân bón các loại/part-00005-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "e8e76b66f1123fe5ee936d46005775a2dab6b804ca2b1f9a32d902f11c781b51"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=phân bón các loại/part-00006-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "8b92a88ef227476339c4549c271fefa010a92689e89551aa7c0af316436ce8b9"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=phế liệu sắt thép/part-00000-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "92530278ef83a8cc23e0843021f76f7713831088837941204984313793a0b370"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=phế liệu sắt thép/part-00001-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "baed3c5aa5dde9123e3854c192da3545c71bf1c327988a9bb439683a17c10189"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=phế liệu sắt thép/part-00002-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "7cc9d5c863aaf106ac5457aa1c5a04e065cee122fb916fdf9ee7643eaea7a4a9"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=phế liệu sắt thép/part-00003-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "89b9c5fcfa362e882faaf7f051fc354b1a111445e94285a5a7db251822877a57"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=phế liệu sắt thép/part-00004-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "ff3f02522bd1a54e0280c8bb9f7e25024ffc8dad80a091eb9f43d1d0c0071b1a"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=phế liệu sắt thép/part-00005-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "f3b1ef8f090919362bd20cb44487fb1a4ad81ce8c2d721f577df7141013b857a"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=phế liệu sắt thép/part-00006-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "7adc8afa5acb4b7ed9f69184ecf1309b64d8ca0ad091f4e6ee63c70805d14c0f"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=sản phẩm từ sắt thép/part-00000-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "ebd8246edab6f97714ef0b72f4b463807f598470f392da292b8bbce3af87d037"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=sản phẩm từ sắt thép/part-00001-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "7707b63312dfe4447a2283107d472eb3cb6f8abcfa7c0aee6ab86598d3ee6835"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=sản phẩm từ sắt thép/part-00002-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "978b6bea47fa5fb3a27e0e2a7160b9c331eab14cf1e46e573a0deee7ed6b5832"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=sản phẩm từ sắt thép/part-00003-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "f5e4df513c394ac773928a3343da34084105382a89694ef0a6ddef4ca063b634"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=sản phẩm từ sắt thép/part-00004-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "86ae52a5e16afe352b15a3bb3a16cdefbd1f121e81ecd848c838559f2a92ccb0"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=sản phẩm từ sắt thép/part-00005-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "3e61bb982e34041e2a447d0a7a3d8ed15ead1b7f1e13de3515030f7c6c7461a1"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=sản phẩm từ sắt thép/part-00006-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "302496691ee12a3525776c76b360a57bb1a2554271fb03574e992ef45d1f191f"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=sắt thép các loại/part-00000-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "fe32e2a1eeb46a9ba633fc6e8640cb587a6197767ad0bd34dcba68eb90b48259"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=sắt thép các loại/part-00001-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "7bb428c5433f496b14195e37e8fd79b09dcaf2fed2b9040cf3c934bd6598cd5d"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=sắt thép các loại/part-00002-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "3fd9246bac302b523b5e04dcb645ec1cec3bf326e3695e6e3c75479243c7d781"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=sắt thép các loại/part-00003-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "15509f864b9aaa30c984b72048c2fb4a2f1f660e5b5db03a54fc05bdf634914e"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=sắt thép các loại/part-00004-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "fc393b6c47f40b18ec9dc4b25d4caf710e68cc29596ed3cc855986559b95b626"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=sắt thép các loại/part-00005-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "f57d053de5add7016d8361b69c6c1bcd4730bb486a7f8ebcf5abee348bcffe66"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=sắt thép các loại/part-00006-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "3753f83df1f3d14eff03af46d9b27ef22ad5ba76988c2a823df1b506dc32416e"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=than đá/part-00002-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "21461dd5effe51c77e6bac81b5489735f0883f4ea7f5e4a0af2078fdd480873c"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=than đá/part-00003-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "6c5f8b4894299357bdebf6cb7f1ece4db25d6117823bf1dfeb17cc4668efcc8a"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=than đá/part-00004-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "217f87696afd1d886df2274df2ff1e7c19d43e25e55231ea3e4ce050e782ad2c"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=than đá/part-00005-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "295f09c39121839be0805a46c0de8a899a0a9abb29b17c01712b96c9d2495279"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=than đá/part-00006-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "728b32867c575d2b04f39e7664e147d89ce97310bb2c159cf0320a8fb1738867"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=ure/part-00000-6210aeab-1c54-4170-be3b-42e455d84912.c000.snappy.parquet",
+      "sha256": "ba0b328dded7fc5cc6cdb91447ac0a312968b369a995addf523b3e5ee150eb49"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=xăng dầu các loại/part-00000-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "4a84ed3724e9be129483581a10b09405e34efdd9ff2a92e663e290c813bb2434"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=xăng dầu các loại/part-00001-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "a2b7cd9b114bf1bf06f890aa14667f00dae57809e168cd009ce46583b065c03c"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=xăng dầu các loại/part-00002-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "00c67d5a5ba501fe424a0d8e173ee3221338379d86bc2b2f9e20d4d45099e7b9"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=xăng dầu các loại/part-00003-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "e36eff182e54f8fa127acc31476209ebdbf8dde5d371156fbc53dedb734e7239"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=xăng dầu các loại/part-00004-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "80c650c1bd76916a93a745c550a9bd218a3a3b43ce374cc1993ffe5f5456110d"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=xăng dầu các loại/part-00005-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "9ec1c1a807dc4cda02cb70acd104124560961960a5b89833e5f5979eb2e6e496"
+    },
+    {
+      "path": "xuatnhapkhau/loai=nhap_khau/ten_mat_hang=xăng dầu các loại/part-00006-17636793-cce0-4619-a3bd-08e923f4da78.c000.snappy.parquet",
+      "sha256": "1f24f3906175e10b26f906e4f0c3a198fabae79912d60fb0c8e8fa636e65cce1"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=clanhke và xi măng/part-00000-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "3dba0358fde2bedd667104f33e9799b9377a3bf52c111541fa13681487681bac"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=clanhke và xi măng/part-00001-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "396c71eff1cc374e24c84eb7bf97c50969d881cd153b33de1dada4e865c73b56"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=clanhke và xi măng/part-00002-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "3545fca3e449eb5a5887092e92f3c01c4971f1b06c36ea4933559fe2341ad182"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=clanhke và xi măng/part-00003-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "a9a4c34a7535f4eeb88b7ac000792810395581040bedbffd86520aa7b8534541"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=clanhke và xi măng/part-00004-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "f9a83b310ecdc15f3cb9df04846811855f754901e904979d720a32c05cf75716"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=clanhke và xi măng/part-00005-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "16928939c4f3ff6dabb98be0af30c34796e2f932364352850855a713e23bf1cf"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=clanhke và xi măng/part-00006-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "355d1b212f6ee4ea2e332535443592d65a636372c08086cac83ebd767b808e0f"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=dầu thô/part-00000-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "6e9965f1b723bd00f3e622a79cb815c250042d78d7fb21fb2f6d697af5d51e18"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=dầu thô/part-00001-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "7d7dac68f2da54045ecd1c578b45706772c67885767de2381108648a02d55ac5"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=dầu thô/part-00002-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "f196fa53851848fc44b7433d7d87d7648e4af987ad50d8868007d9b04062f359"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=dầu thô/part-00003-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "4d752a490f4d1b8317e7929131e6e5b999a8c9fc633fae27aeef6b96a627aeab"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=dầu thô/part-00004-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "1667d7aa3cfef77627ec2b3dca2e69e3b76a53b1c0c28ed970a72eeb09e3806d"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=dầu thô/part-00005-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "fc9e2e0960f9b6d3f71bc7b396502414032c89df8ef67f16728c1fd8cb856d45"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=dầu thô/part-00006-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "3d92b524a361585d1170821f134885fdf3c552f9c2ce245ee6ff6190f358e7b9"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=gạo/part-00000-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "0577e1283eed11fc78345493247a4d57373b8bc6ed18fcc0dfde874fb6a04a19"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=gạo/part-00001-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "fc97bedaf42c8ec92ce9646ed856c14369984797a4eb850518e291c66f72d162"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=gạo/part-00002-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "994f63834b74d8896c6e99b18e946a71c10390b59ed2e2dbdce5d72c3088966e"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=gạo/part-00003-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "3fc093da423f09979ec165fae6ff40714aa646a955b6756ca00516447c165774"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=gạo/part-00004-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "c0c74bb1a02eec589d0f9547d47d70096f0ef1226b998f082dda1824ff933eee"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=gạo/part-00005-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "5de077efd6c4165c6ed321abcc28a7d86e7efb659427fa633dbb63866421a78c"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=gạo/part-00006-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "44b269dd594b6a50f97a1c7b04830b9b17dd825de43f289a764766680dbe6281"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=phân bón các loại/part-00000-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "cbd479428b3f6a9c2d9682124c66aedecea2a14fbdd01d29b214a4865b90c7f4"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=phân bón các loại/part-00001-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "4b0caf91b9c74a253d41f3d4ef289c265957195ed7b0cd35cc439612175a627e"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=phân bón các loại/part-00002-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "fda76b815c46085ccf082735d49fc0dd770b1ba395a6b88caf26f834759ef948"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=phân bón các loại/part-00003-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "2669d24b625e4cf88d3d3f3cdfcb159a1153705bf2581e34199486319eb8606a"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=phân bón các loại/part-00004-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "1b34c43d0577670c68f28f1cbd2245bdc3af93cbcb2b24574af60ee074695f0a"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=phân bón các loại/part-00005-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "2d8ce1735c24f47102504f59248a8b187f571e4b9016d4595b06926eef896d6c"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=phân bón các loại/part-00006-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "c9902d37b0ad2e7688cc39c23d8c1adc6f35e9ffdf9d7f1af225d1bc3d1a11f6"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=sản phẩm từ sắt thép/part-00000-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "3256086ccfd412d2cace98e41f2386cbc7ab786c76fae7adc8053e0fc2617719"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=sản phẩm từ sắt thép/part-00001-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "912fd9d1b62332ed4b371ea1dbca1338805247c70e70f42c43960665648bb8bc"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=sản phẩm từ sắt thép/part-00002-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "e71e2d76edbd11fb008c6e85832a2716ad6ffa1261a4caf3be448231e0e9ef3c"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=sản phẩm từ sắt thép/part-00003-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "5a1570f04b560e98b370108eb778eb728c80a0701225c22c98dfef076f37efe6"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=sản phẩm từ sắt thép/part-00004-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "e9308216d21c076ace73598526bb73002aae97ea7fc41bd0c76d09704203581f"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=sản phẩm từ sắt thép/part-00005-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "d4efbcae85f59d563093e9fc285a4b22740636f7d730abe586933e610ad3906b"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=sản phẩm từ sắt thép/part-00006-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "bd48bde505d7476ac6a1d6d3974477664df9a09e0f83b6a5521a29b0adbdb642"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=sắt thép các loại/part-00000-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "66d2501dc015261c47fbb0af77ffa1e89fa9f0a999dc4a0f902837a3a43a5d9b"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=sắt thép các loại/part-00001-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "4148bd3a975d6b1fdeaa99cee28142091792dbf1fab37ba6e996578f88b5a306"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=sắt thép các loại/part-00002-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "4b0a67c4eb2746d2d4e5b9b203883e6a80b6e8bccba7988d5dccfbce88e8aa5d"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=sắt thép các loại/part-00003-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "d720c5b2e7da309fd3e8d9d8e8e6ce718e3c953495b01ba1c6455f79cb2dc6f6"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=sắt thép các loại/part-00004-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "ad3627cb5428edca122acfb712b9969a97d61b39fd27fa588f3c766b9210aecc"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=sắt thép các loại/part-00005-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "6d9bf7756a7476e5e699b4722e3864d470be84de1f6959598365a48999a3bdac"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=sắt thép các loại/part-00006-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "2de969109d7d072ec05cb581a7f883307fa60f8824269c686843937a20fae03f"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=than đá/part-00001-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "f84b9eacdcfcd90b195203355e2f7bb88477c4ca366e32c248da65d4f6180abe"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=than đá/part-00002-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "669707f827c562691ffa595394f4eb6f9f19813e85c8932007ede0949c27c3b1"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=than đá/part-00003-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "1befd498851c95da4d0d30a88d24aa9ad444090384ffe697fcbe6a5299bcc92b"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=than đá/part-00004-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "8201fda1b427d449ce8341516faf00949d8dafdb894317ebf764c06f6a7fb857"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=than đá/part-00005-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "c824a40ae036bb7e6b1fe364a95223f1dab1e1aea33f82398d6fbd4863c99135"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=than đá/part-00006-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "208237fd2b797b100f4e9f2d48559b915ef81875837d2e372a5262da90016d5f"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=xăng dầu các loại/part-00000-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "b0682140fe7c45d5685620ffb7950a6516bae9c5cbd77b97979bd3e1a7c81611"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=xăng dầu các loại/part-00001-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "c73352ef25294356a88f896e420d0c8de76486d3f75e0dfa20bd8d06dd8284bd"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=xăng dầu các loại/part-00002-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "8719ca3875d0cb33f917f3e2babe7c498feadd679f1bf928c2963fc5f6601ea7"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=xăng dầu các loại/part-00003-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "56bdb338e80c4b6a22cf7ff5d9779df337d06e83cec8dd6cfae56974ab2e04ca"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=xăng dầu các loại/part-00004-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "0b3554085a04aa1e2155dd5e14eaa68f0bf22a17d2eefee3110bd8829fab2bd0"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=xăng dầu các loại/part-00005-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "af58ed2a580e80bd43e378c8b4d50419b0147d8855756a46e76facdd2b308cb0"
+    },
+    {
+      "path": "xuatnhapkhau/loai=xuat_khau/ten_mat_hang=xăng dầu các loại/part-00006-42f28689-b42d-4124-bfaf-2a896a1f9150.c000.snappy.parquet",
+      "sha256": "49cd0724b52bbd9691570bf3b0c21d8b0c1d845563dc443da0f936c7005dbf97"
+    }
+  ]
+}

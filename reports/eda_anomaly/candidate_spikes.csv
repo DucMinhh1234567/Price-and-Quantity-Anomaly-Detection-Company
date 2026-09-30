@@ -1,0 +1,283 @@
+﻿series_id,loai,ten_mat_hang,metric,thang_nam,value,mom_pct,robust_z
+dau_tho__nhap_khau__so_luong,nhap_khau,dầu thô,so_luong,2013-01,149561.0,0.7716089598559601,20.453722581363007
+dau_tho__nhap_khau__so_luong,nhap_khau,dầu thô,so_luong,2013-02,75899.0,-0.4925214460989161,-13.356729311499862
+dau_tho__nhap_khau__so_luong,nhap_khau,dầu thô,so_luong,2013-04,168343.0,1.1167232490883943,19.65764693265254
+dau_tho__nhap_khau__so_luong,nhap_khau,dầu thô,so_luong,2013-06,79504.0,-0.5067592299627142,-6.718799386733331
+dau_tho__nhap_khau__so_luong,nhap_khau,dầu thô,so_luong,2013-10,162464.0,1.218483722962639,11.27331192419316
+dau_tho__nhap_khau__so_luong,nhap_khau,dầu thô,so_luong,2014-08,133309.0,0.42748990758885075,4.078694795452985
+dau_tho__nhap_khau__so_luong,nhap_khau,dầu thô,so_luong,2014-09,91229.0,-0.31565760751337124,-3.0039648515574187
+dau_tho__nhap_khau__so_luong,nhap_khau,dầu thô,so_luong,2014-11,118642.0,0.47089015621125707,3.2178621784175983
+dau_tho__nhap_khau__so_luong,nhap_khau,dầu thô,so_luong,2017-08,621727.0,3.432390620878455,5.949358098102478
+dau_tho__nhap_khau__so_luong,nhap_khau,dầu thô,so_luong,2018-04,268820.0,2.1362071982733477,3.3005210510982566
+dau_tho__nhap_khau__so_luong,nhap_khau,dầu thô,so_luong,2021-01,349119.0,-0.6377302456472405,-3.6867738937007006
+dau_tho__nhap_khau__so_luong,nhap_khau,dầu thô,so_luong,2021-02,909951.0,1.6064207333316145,7.650245358461393
+dau_tho__nhap_khau__so_luong,nhap_khau,dầu thô,so_luong,2022-03,825770.0,5.520609602021478,8.343897869287659
+dau_tho__nhap_khau__so_luong,nhap_khau,dầu thô,so_luong,2023-10,1219580.0,2.0562621070912157,7.801299173524832
+dau_tho__nhap_khau__so_luong,nhap_khau,dầu thô,so_luong,2025-12,1457033.0,0.8867008086602397,5.098343880039527
+dau_tho__nhap_khau__tri_gia,nhap_khau,dầu thô,tri_gia,2013-01,130020134.0,0.8364911546318168,5.041875698632381
+dau_tho__nhap_khau__tri_gia,nhap_khau,dầu thô,tri_gia,2013-04,142957151.0,1.1302019664230207,8.819858638658406
+dau_tho__nhap_khau__tri_gia,nhap_khau,dầu thô,tri_gia,2013-10,140751144.0,1.2298786417226468,12.398538568401621
+dau_tho__nhap_khau__tri_gia,nhap_khau,dầu thô,tri_gia,2014-08,113454096.0,0.42838511840866245,3.1942018121961286
+dau_tho__nhap_khau__tri_gia,nhap_khau,dầu thô,tri_gia,2017-08,226049768.0,2.999750229895192,4.539806113166367
+dau_tho__nhap_khau__tri_gia,nhap_khau,dầu thô,tri_gia,2019-12,331782624.0,0.923706712897109,3.30404202689001
+dau_tho__nhap_khau__tri_gia,nhap_khau,dầu thô,tri_gia,2021-01,136899899.0,-0.5641612512362197,-4.242499726786757
+dau_tho__nhap_khau__tri_gia,nhap_khau,dầu thô,tri_gia,2021-02,383818819.0,1.8036457426458727,13.882432541295733
+dau_tho__nhap_khau__tri_gia,nhap_khau,dầu thô,tri_gia,2021-04,453886968.0,0.5474738356477165,3.0833260092414365
+dau_tho__nhap_khau__tri_gia,nhap_khau,dầu thô,tri_gia,2022-03,639045890.0,5.930509120502379,8.161748968669995
+dau_tho__nhap_khau__tri_gia,nhap_khau,dầu thô,tri_gia,2023-10,856873153.0,2.0140528699868896,6.3660679784775125
+dau_tho__nhap_khau__tri_gia,nhap_khau,dầu thô,tri_gia,2025-12,729316429.0,0.8799083570862425,3.9790497470075668
+khi_dot_hoa_long__nhap_khau__so_luong,nhap_khau,khí đốt hóa lỏng,so_luong,2011-03,96373.0,5.113486424765288,19.196205135029967
+khi_dot_hoa_long__nhap_khau__so_luong,nhap_khau,khí đốt hóa lỏng,so_luong,2011-11,69065.0,1.910083006783803,5.367627131625087
+khi_dot_hoa_long__nhap_khau__so_luong,nhap_khau,khí đốt hóa lỏng,so_luong,2012-12,61499.0,1.7082525982032766,3.0313342964365817
+khi_dot_hoa_long__nhap_khau__so_luong,nhap_khau,khí đốt hóa lỏng,so_luong,2014-03,67578.0,1.1857170580244518,3.3287268951833915
+khi_dot_hoa_long__nhap_khau__so_luong,nhap_khau,khí đốt hóa lỏng,so_luong,2015-02,34915.0,-0.6799490338429949,-3.76990868069004
+khi_dot_hoa_long__nhap_khau__so_luong,nhap_khau,khí đốt hóa lỏng,so_luong,2015-03,110437.0,2.163024488042389,10.107033063532905
+khi_dot_hoa_long__nhap_khau__so_luong,nhap_khau,khí đốt hóa lỏng,so_luong,2016-08,145390.0,1.3662196471583883,3.3877991114439974
+khi_dot_hoa_long__nhap_khau__so_luong,nhap_khau,khí đốt hóa lỏng,so_luong,2017-10,52230.0,-0.6229915257907578,-3.57928657270988
+khi_dot_hoa_long__nhap_khau__so_luong,nhap_khau,khí đốt hóa lỏng,so_luong,2017-11,160794.0,2.0785755313038483,9.747333873386557
+khi_dot_hoa_long__nhap_khau__so_luong,nhap_khau,khí đốt hóa lỏng,so_luong,2018-01,166232.0,1.4681444967409543,3.83150682582025
+khi_dot_hoa_long__nhap_khau__so_luong,nhap_khau,khí đốt hóa lỏng,so_luong,2019-08,222263.0,0.7776915755544713,3.0124165966755863
+khi_dot_hoa_long__nhap_khau__so_luong,nhap_khau,khí đốt hóa lỏng,so_luong,2021-07,211668.0,1.050589500402042,4.1453017591730354
+khi_dot_hoa_long__nhap_khau__so_luong,nhap_khau,khí đốt hóa lỏng,so_luong,2022-03,136617.0,1.9440146535933627,5.582870425194462
+khi_dot_hoa_long__nhap_khau__so_luong,nhap_khau,khí đốt hóa lỏng,so_luong,2023-07,345365.0,1.4333988599773124,3.1620207411195294
+khi_dot_hoa_long__nhap_khau__so_luong,nhap_khau,khí đốt hóa lỏng,so_luong,2024-09,207838.0,-0.3634344975022894,-3.07640624930076
+khi_dot_hoa_long__nhap_khau__so_luong,nhap_khau,khí đốt hóa lỏng,so_luong,2025-02,92481.0,-0.5992242854976058,-3.6981894455975026
+khi_dot_hoa_long__nhap_khau__so_luong,nhap_khau,khí đốt hóa lỏng,so_luong,2025-03,279508.0,2.0223289108033002,9.0858014945825
+khi_dot_hoa_long__nhap_khau__tri_gia,nhap_khau,khí đốt hóa lỏng,tri_gia,2011-03,85163097.0,5.176896592241009,17.160245971242126
+khi_dot_hoa_long__nhap_khau__tri_gia,nhap_khau,khí đốt hóa lỏng,tri_gia,2011-11,56892325.0,1.8145287964396206,4.2306398943609755
+khi_dot_hoa_long__nhap_khau__tri_gia,nhap_khau,khí đốt hóa lỏng,tri_gia,2013-03,39966339.0,0.8603233712277638,3.2639192398878136
+khi_dot_hoa_long__nhap_khau__tri_gia,nhap_khau,khí đốt hóa lỏng,tri_gia,2015-03,60500331.0,2.094964765425719,8.033043925981014
+khi_dot_hoa_long__nhap_khau__tri_gia,nhap_khau,khí đốt hóa lỏng,tri_gia,2016-08,50319600.0,1.1878864131825901,4.051450688991335
+khi_dot_hoa_long__nhap_khau__tri_gia,nhap_khau,khí đốt hóa lỏng,tri_gia,2017-10,33666823.0,-0.5671974292777958,-3.610412737833777
+khi_dot_hoa_long__nhap_khau__tri_gia,nhap_khau,khí đốt hóa lỏng,tri_gia,2017-11,98939308.0,1.9387776803293852,10.98249801152021
+khi_dot_hoa_long__nhap_khau__tri_gia,nhap_khau,khí đốt hóa lỏng,tri_gia,2018-01,99566358.0,1.280965584062979,4.15403414978569
+khi_dot_hoa_long__nhap_khau__tri_gia,nhap_khau,khí đốt hóa lỏng,tri_gia,2021-07,141611046.0,1.3517603296751366,5.493729124858393
+khi_dot_hoa_long__nhap_khau__tri_gia,nhap_khau,khí đốt hóa lỏng,tri_gia,2022-03,131528683.0,2.279919289188265,6.497221921577184
+khi_dot_hoa_long__nhap_khau__tri_gia,nhap_khau,khí đốt hóa lỏng,tri_gia,2025-02,63835209.0,-0.5921934799262489,-4.098644790592747
+khi_dot_hoa_long__nhap_khau__tri_gia,nhap_khau,khí đốt hóa lỏng,tri_gia,2025-03,183292220.0,1.8713342193334088,7.27489107188701
+phan_bon_cac_loai__nhap_khau__so_luong,nhap_khau,phân bón các loại,so_luong,2021-05,543455.0,0.5888824568174111,3.7510178247733372
+phan_bon_cac_loai__nhap_khau__so_luong,nhap_khau,phân bón các loại,so_luong,2025-06,804102.0,0.5019893230324382,3.3358935700342105
+phan_bon_cac_loai__nhap_khau__so_luong,nhap_khau,phân bón các loại,so_luong,2026-03,455823.0,1.118559935303058,3.9586624946167137
+phan_bon_cac_loai__nhap_khau__tri_gia,nhap_khau,phân bón các loại,tri_gia,2021-05,160108523.0,0.6748538320624231,3.2747010460771033
+phan_bon_cac_loai__nhap_khau__tri_gia,nhap_khau,phân bón các loại,tri_gia,2022-08,111282236.0,0.6671033736577583,3.624942571307436
+phan_bon_cac_loai__nhap_khau__tri_gia,nhap_khau,phân bón các loại,tri_gia,2023-08,158839618.0,0.8148070006839705,3.3923232788160718
+phan_bon_cac_loai__nhap_khau__tri_gia,nhap_khau,phân bón các loại,tri_gia,2025-06,302549185.0,0.7628254667163643,5.960004426488938
+phan_bon_cac_loai__nhap_khau__tri_gia,nhap_khau,phân bón các loại,tri_gia,2025-11,125613716.0,-0.3893053083988183,-3.115337726586145
+phan_bon_cac_loai__nhap_khau__tri_gia,nhap_khau,phân bón các loại,tri_gia,2026-01,74954593.0,-0.48533780874552,-3.364376668982068
+phan_bon_cac_loai__nhap_khau__tri_gia,nhap_khau,phân bón các loại,tri_gia,2026-03,147674815.0,0.8246043087156518,3.823424946461597
+phe_lieu_sat_thep__nhap_khau__so_luong,nhap_khau,phế liệu sắt thép,so_luong,2015-06,364004.0,0.9979581531165609,3.084087635323081
+phe_lieu_sat_thep__nhap_khau__so_luong,nhap_khau,phế liệu sắt thép,so_luong,2019-03,360514.0,0.6644075308630575,3.535746596933691
+phe_lieu_sat_thep__nhap_khau__so_luong,nhap_khau,phế liệu sắt thép,so_luong,2019-04,649653.0,0.8020187842913173,3.6833186959129796
+phe_lieu_sat_thep__nhap_khau__so_luong,nhap_khau,phế liệu sắt thép,so_luong,2022-01,175936.0,-0.6895851454804975,-3.9205356448819844
+phe_lieu_sat_thep__nhap_khau__so_luong,nhap_khau,phế liệu sắt thép,so_luong,2022-02,339269.0,0.9283659967260822,3.880879739603086
+phe_lieu_sat_thep__nhap_khau__so_luong,nhap_khau,phế liệu sắt thép,so_luong,2023-02,483186.0,1.419123242680338,4.945837539876015
+phe_lieu_sat_thep__nhap_khau__so_luong,nhap_khau,phế liệu sắt thép,so_luong,2025-12,683854.0,0.59142402353204,3.7050988654722024
+phe_lieu_sat_thep__nhap_khau__tri_gia,nhap_khau,phế liệu sắt thép,tri_gia,2015-06,97133025.0,0.9933915576534893,3.3553605072437045
+phe_lieu_sat_thep__nhap_khau__tri_gia,nhap_khau,phế liệu sắt thép,tri_gia,2016-03,57990647.0,0.7731098161584793,3.0496369368732914
+phe_lieu_sat_thep__nhap_khau__tri_gia,nhap_khau,phế liệu sắt thép,tri_gia,2019-03,118605612.0,0.9353902022194513,4.796648096046466
+phe_lieu_sat_thep__nhap_khau__tri_gia,nhap_khau,phế liệu sắt thép,tri_gia,2019-04,200087766.0,0.6870008309556213,3.453220408140912
+phe_lieu_sat_thep__nhap_khau__tri_gia,nhap_khau,phế liệu sắt thép,tri_gia,2022-01,90639592.0,-0.6927645925679502,-3.6093158006255823
+phe_lieu_sat_thep__nhap_khau__tri_gia,nhap_khau,phế liệu sắt thép,tri_gia,2023-02,185853143.0,1.4245356062242966,5.593152055350354
+phe_lieu_sat_thep__nhap_khau__tri_gia,nhap_khau,phế liệu sắt thép,tri_gia,2025-12,226822419.0,0.5937133953786795,5.551003199181533
+san_pham_tu_sat_thep__nhap_khau__tri_gia,nhap_khau,sản phẩm từ sắt thép,tri_gia,2011-03,182675939.0,0.4600681856130644,3.954852332384751
+san_pham_tu_sat_thep__nhap_khau__tri_gia,nhap_khau,sản phẩm từ sắt thép,tri_gia,2013-02,147017395.0,-0.3436237103692902,-3.850123687862725
+san_pham_tu_sat_thep__nhap_khau__tri_gia,nhap_khau,sản phẩm từ sắt thép,tri_gia,2013-03,241370200.0,0.6417798723749661,6.841292871607161
+san_pham_tu_sat_thep__nhap_khau__tri_gia,nhap_khau,sản phẩm từ sắt thép,tri_gia,2013-05,295818913.0,0.398883891595605,3.6401761014011074
+san_pham_tu_sat_thep__nhap_khau__tri_gia,nhap_khau,sản phẩm từ sắt thép,tri_gia,2016-03,226636162.0,0.3980042780864381,3.2300510267750977
+san_pham_tu_sat_thep__nhap_khau__tri_gia,nhap_khau,sản phẩm từ sắt thép,tri_gia,2018-02,204967364.0,-0.3513514173812049,-4.293563344843148
+san_pham_tu_sat_thep__nhap_khau__tri_gia,nhap_khau,sản phẩm từ sắt thép,tri_gia,2018-03,279954304.0,0.3658481942520371,3.9325172135464586
+san_pham_tu_sat_thep__nhap_khau__tri_gia,nhap_khau,sản phẩm từ sắt thép,tri_gia,2019-02,217744553.0,-0.427352425718881,-4.637235912549686
+san_pham_tu_sat_thep__nhap_khau__tri_gia,nhap_khau,sản phẩm từ sắt thép,tri_gia,2019-03,308835895.0,0.4183403935711769,3.7471361900019033
+san_pham_tu_sat_thep__nhap_khau__tri_gia,nhap_khau,sản phẩm từ sắt thép,tri_gia,2022-02,320514494.0,-0.2999867182581445,-4.395442095070549
+san_pham_tu_sat_thep__nhap_khau__tri_gia,nhap_khau,sản phẩm từ sắt thép,tri_gia,2022-03,390225008.0,0.21749566807421816,3.0903286338526965
+san_pham_tu_sat_thep__nhap_khau__tri_gia,nhap_khau,sản phẩm từ sắt thép,tri_gia,2024-02,336612328.0,-0.35459339116486277,-4.710680235903488
+san_pham_tu_sat_thep__nhap_khau__tri_gia,nhap_khau,sản phẩm từ sắt thép,tri_gia,2024-03,479373831.0,0.4241125209175345,4.196499530830909
+san_pham_tu_sat_thep__nhap_khau__tri_gia,nhap_khau,sản phẩm từ sắt thép,tri_gia,2026-02,571214773.0,-0.30493384609441854,-3.457998292613545
+sat_thep_cac_loai__nhap_khau__so_luong,nhap_khau,sắt thép các loại,so_luong,2013-03,830918.0,0.45084282905603845,3.8779110385282918
+sat_thep_cac_loai__nhap_khau__so_luong,nhap_khau,sắt thép các loại,so_luong,2014-07,1032713.0,1.1019837005194342,3.6390434032658265
+sat_thep_cac_loai__nhap_khau__tri_gia,nhap_khau,sắt thép các loại,tri_gia,2012-10,531827814.0,0.17839685312438958,3.028473549591183
+sat_thep_cac_loai__nhap_khau__tri_gia,nhap_khau,sắt thép các loại,tri_gia,2013-01,542530249.0,0.22543606427657115,3.5138965063500356
+sat_thep_cac_loai__nhap_khau__tri_gia,nhap_khau,sắt thép các loại,tri_gia,2013-03,602829313.0,0.4638972151481964,6.771952905061268
+sat_thep_cac_loai__nhap_khau__tri_gia,nhap_khau,sắt thép các loại,tri_gia,2014-07,700006705.0,0.9163428514004539,3.1614276006930315
+sat_thep_cac_loai__nhap_khau__tri_gia,nhap_khau,sắt thép các loại,tri_gia,2019-03,895084509.0,0.6232539650568469,3.065515563057374
+sat_thep_cac_loai__nhap_khau__tri_gia,nhap_khau,sắt thép các loại,tri_gia,2021-03,1083171763.0,0.49869993592378803,3.1284137578523867
+than_da__nhap_khau__so_luong,nhap_khau,than đá,so_luong,2016-09,761776.0,-0.39759266713218033,-4.021585801983492
+than_da__nhap_khau__so_luong,nhap_khau,than đá,so_luong,2016-10,1170772.0,0.5368979857595935,4.9433608468768915
+than_da__nhap_khau__so_luong,nhap_khau,than đá,so_luong,2016-11,800370.0,-0.31637415312289674,-3.4079261302716928
+than_da__nhap_khau__tri_gia,nhap_khau,than đá,tri_gia,2016-09,50777829.0,-0.4254484361317503,-3.0325506192258422
+than_da__nhap_khau__tri_gia,nhap_khau,than đá,tri_gia,2016-10,88993640.0,0.7526082101698361,4.708801924627925
+ure__nhap_khau__so_luong,nhap_khau,ure,so_luong,2013-07,159.0,3.7862733293196875,5.461966885606906
+ure__nhap_khau__so_luong,nhap_khau,ure,so_luong,2014-06,21.66,5.283724978241951,15.25228765520749
+ure__nhap_khau__so_luong,nhap_khau,ure,so_luong,2015-04,26.249,9.170089112746997,13.294752576134103
+ure__nhap_khau__so_luong,nhap_khau,ure,so_luong,2015-07,122.135,10.8808365758755,13.83672551997484
+ure__nhap_khau__so_luong,nhap_khau,ure,so_luong,2017-08,50.975,8.473146255342874,6.06119967545253
+ure__nhap_khau__so_luong,nhap_khau,ure,so_luong,2019-04,93.496,2.741635985272931,5.538550279727122
+ure__nhap_khau__so_luong,nhap_khau,ure,so_luong,2019-09,11.536,92.03225806454103,111.3920210948227
+ure__nhap_khau__so_luong,nhap_khau,ure,so_luong,2020-06,9.680999999999996,42.412556053811855,36.1226528382292
+ure__nhap_khau__so_luong,nhap_khau,ure,so_luong,2021-03,6.117999999999999,47.555555555553745,46.45565026816568
+ure__nhap_khau__so_luong,nhap_khau,ure,so_luong,2022-03,26.450000000000003,38.89441930618401,43.49410977363831
+ure__nhap_khau__so_luong,nhap_khau,ure,so_luong,2023-04,60.243,4.243993732590529,4.568345851625477
+ure__nhap_khau__so_luong,nhap_khau,ure,so_luong,2024-06,106.108,2.996986476814706,4.597966940025565
+ure__nhap_khau__so_luong,nhap_khau,ure,so_luong,2024-09,35.40299999999999,4.626668785759692,7.098220256896591
+ure__nhap_khau__so_luong,nhap_khau,ure,so_luong,2025-07,107.379,3.6075520274619173,5.245081774796009
+ure__nhap_khau__tri_gia,nhap_khau,ure,tri_gia,2013-07,53.27,3.4727120067170443,4.723190111786769
+ure__nhap_khau__tri_gia,nhap_khau,ure,tri_gia,2014-06,6.649999999999999,5.472649406268248,13.389310449337788
+ure__nhap_khau__tri_gia,nhap_khau,ure,tri_gia,2015-04,7.953386999999999,9.776947154471545,14.69562423589369
+ure__nhap_khau__tri_gia,nhap_khau,ure,tri_gia,2015-07,40.008069,10.760161375661372,14.137068834724055
+ure__nhap_khau__tri_gia,nhap_khau,ure,tri_gia,2017-08,11.264999999999992,7.821891761300691,5.612227502627832
+ure__nhap_khau__tri_gia,nhap_khau,ure,tri_gia,2019-04,25.488745,2.714936104762568,4.56664135623655
+ure__nhap_khau__tri_gia,nhap_khau,ure,tri_gia,2019-09,3.233218000000008,38.59802084481828,45.458886627031866
+ure__nhap_khau__tri_gia,nhap_khau,ure,tri_gia,2020-06,2.522098,29.401374156219905,25.90280804964553
+ure__nhap_khau__tri_gia,nhap_khau,ure,tri_gia,2021-03,2.157839,34.66734987355163,33.06584930963218
+ure__nhap_khau__tri_gia,nhap_khau,ure,tri_gia,2022-03,16.60183,41.54588554880705,37.650516625361895
+ure__nhap_khau__tri_gia,nhap_khau,ure,tri_gia,2024-06,34.759096,2.4791873423952704,3.6408779581448365
+ure__nhap_khau__tri_gia,nhap_khau,ure,tri_gia,2024-09,12.528131000000002,4.587482795745933,6.737072551468784
+ure__nhap_khau__tri_gia,nhap_khau,ure,tri_gia,2025-07,41.781607,3.619150540153389,5.967415571949612
+xang_dau_cac_loai__nhap_khau__so_luong,nhap_khau,xăng dầu các loại,so_luong,2013-03,719345.0,0.4795948800539722,4.568301788551924
+xang_dau_cac_loai__nhap_khau__so_luong,nhap_khau,xăng dầu các loại,so_luong,2013-08,690308.0,0.3457949026878544,3.2298369919867738
+xang_dau_cac_loai__nhap_khau__so_luong,nhap_khau,xăng dầu các loại,so_luong,2019-03,945105.0,0.8556503675546621,4.491646662569237
+xang_dau_cac_loai__nhap_khau__so_luong,nhap_khau,xăng dầu các loại,so_luong,2019-07,1044325.0,0.7037380844784578,4.7092877820089605
+xang_dau_cac_loai__nhap_khau__so_luong,nhap_khau,xăng dầu các loại,so_luong,2022-03,1287640.0,0.732063157271722,3.825674883021434
+xang_dau_cac_loai__nhap_khau__so_luong,nhap_khau,xăng dầu các loại,so_luong,2026-06,939105.0,0.9787503028898323,5.429293122374902
+xang_dau_cac_loai__nhap_khau__tri_gia,nhap_khau,xăng dầu các loại,tri_gia,2013-03,705829164.0,0.4736731958506919,3.2873369561461394
+xang_dau_cac_loai__nhap_khau__tri_gia,nhap_khau,xăng dầu các loại,tri_gia,2013-08,660095512.0,0.37232096324522357,3.2321777309019204
+xang_dau_cac_loai__nhap_khau__tri_gia,nhap_khau,xăng dầu các loại,tri_gia,2013-10,650012417.0,0.3900816727312526,3.036598610520878
+xang_dau_cac_loai__nhap_khau__tri_gia,nhap_khau,xăng dầu các loại,tri_gia,2019-03,590015612.0,0.9738307610293206,5.066118810816646
+xang_dau_cac_loai__nhap_khau__tri_gia,nhap_khau,xăng dầu các loại,tri_gia,2019-07,630311454.0,0.7593521130937992,3.621166525860597
+xang_dau_cac_loai__nhap_khau__tri_gia,nhap_khau,xăng dầu các loại,tri_gia,2019-10,613846116.0,0.589148888771321,3.029967204477719
+xang_dau_cac_loai__nhap_khau__tri_gia,nhap_khau,xăng dầu các loại,tri_gia,2020-06,391262444.0,0.9824830380599201,4.279699806378457
+xang_dau_cac_loai__nhap_khau__tri_gia,nhap_khau,xăng dầu các loại,tri_gia,2022-03,1356267161.0,1.1498875483942284,3.729835379605189
+xang_dau_cac_loai__nhap_khau__tri_gia,nhap_khau,xăng dầu các loại,tri_gia,2026-03,1455394197.0,1.0191837805348638,4.902219377833799
+clanhke_va_xi_mang__xuat_khau__so_luong,xuat_khau,clanhke và xi măng,so_luong,2014-03,2075671.0,-0.08704127658545058,-3.501977128682993
+clanhke_va_xi_mang__xuat_khau__so_luong,xuat_khau,clanhke và xi măng,so_luong,2019-03,3384226.0,0.5221025200718363,3.2765778151620046
+clanhke_va_xi_mang__xuat_khau__so_luong,xuat_khau,clanhke và xi măng,so_luong,2021-03,4678337.0,0.6519913218439104,3.1356816852068006
+clanhke_va_xi_mang__xuat_khau__so_luong,xuat_khau,clanhke và xi măng,so_luong,2022-05,1581153.0,-0.515525284007692,-3.126668520475222
+clanhke_va_xi_mang__xuat_khau__so_luong,xuat_khau,clanhke và xi măng,so_luong,2022-07,2184722.0,0.6316644422918505,3.1377206545305683
+clanhke_va_xi_mang__xuat_khau__so_luong,xuat_khau,clanhke và xi măng,so_luong,2024-10,2741248.0,0.38661373630014517,3.0713029733482644
+clanhke_va_xi_mang__xuat_khau__so_luong,xuat_khau,clanhke và xi măng,so_luong,2026-02,2792068.0,-0.236814598572069,-3.103088431656529
+clanhke_va_xi_mang__xuat_khau__tri_gia,xuat_khau,clanhke và xi măng,tri_gia,2017-11,78087283.0,0.3975833906119648,3.135379823673663
+clanhke_va_xi_mang__xuat_khau__tri_gia,xuat_khau,clanhke và xi măng,tri_gia,2019-03,143811320.0,0.5237049323584946,4.406027121124009
+clanhke_va_xi_mang__xuat_khau__tri_gia,xuat_khau,clanhke và xi măng,tri_gia,2021-03,175899422.0,0.7576471767801873,3.608387985715365
+clanhke_va_xi_mang__xuat_khau__tri_gia,xuat_khau,clanhke và xi măng,tri_gia,2022-05,73666453.0,-0.5026376126611781,-3.32762800333831
+clanhke_va_xi_mang__xuat_khau__tri_gia,xuat_khau,clanhke và xi măng,tri_gia,2024-10,106742769.0,0.44772743002455906,3.240786568086464
+clanhke_va_xi_mang__xuat_khau__tri_gia,xuat_khau,clanhke và xi măng,tri_gia,2025-02,109481337.0,0.4295690125349134,3.0567359080302086
+clanhke_va_xi_mang__xuat_khau__tri_gia,xuat_khau,clanhke và xi măng,tri_gia,2026-02,100286398.0,-0.22820521268250682,-3.49000650273327
+clanhke_va_xi_mang__xuat_khau__tri_gia,xuat_khau,clanhke và xi măng,tri_gia,2026-03,128343179.0,0.27976656415558976,3.9054568935148772
+dau_tho__xuat_khau__so_luong,xuat_khau,dầu thô,so_luong,2010-03,885773.0,0.6278821449443694,3.7967887111115224
+dau_tho__xuat_khau__so_luong,xuat_khau,dầu thô,so_luong,2011-07,912397.0,0.7090246689268924,4.688866957302284
+dau_tho__xuat_khau__so_luong,xuat_khau,dầu thô,so_luong,2015-04,1003774.0,0.6610332165604569,3.016808216303877
+dau_tho__xuat_khau__so_luong,xuat_khau,dầu thô,so_luong,2017-04,594844.0,0.266641540128997,3.2676488472105727
+dau_tho__xuat_khau__so_luong,xuat_khau,dầu thô,so_luong,2017-06,964787.0,0.42589614819588006,4.536961622463841
+dau_tho__xuat_khau__so_luong,xuat_khau,dầu thô,so_luong,2017-07,583526.0,-0.3951763446232174,-3.0217137383546384
+dau_tho__xuat_khau__so_luong,xuat_khau,dầu thô,so_luong,2020-08,730668.0,1.760779868510542,7.2506902875952175
+dau_tho__xuat_khau__so_luong,xuat_khau,dầu thô,so_luong,2022-10,394325.0,1.2313546853779993,8.391278256785219
+dau_tho__xuat_khau__so_luong,xuat_khau,dầu thô,so_luong,2022-12,313751.0,0.47539912064141454,3.2111351887492456
+dau_tho__xuat_khau__so_luong,xuat_khau,dầu thô,so_luong,2023-10,240557.0,1.8429592861785737,3.611009288421065
+dau_tho__xuat_khau__so_luong,xuat_khau,dầu thô,so_luong,2024-09,283373.0,3.014464214880716,4.370944831421283
+dau_tho__xuat_khau__so_luong,xuat_khau,dầu thô,so_luong,2025-10,319151.0,1.0912986783217242,3.098334323781774
+dau_tho__xuat_khau__so_luong,xuat_khau,dầu thô,so_luong,2026-02,276724.0,2.7718803244053705,7.202334395022503
+dau_tho__xuat_khau__so_luong,xuat_khau,dầu thô,so_luong,2026-04,387549.0,3.838314606741573,5.688791013912976
+dau_tho__xuat_khau__tri_gia,xuat_khau,dầu thô,tri_gia,2011-04,876986728.0,0.6818499577045731,3.523421421354067
+dau_tho__xuat_khau__tri_gia,xuat_khau,dầu thô,tri_gia,2011-07,846493341.0,0.7608815043402462,3.6792749071864974
+dau_tho__xuat_khau__tri_gia,xuat_khau,dầu thô,tri_gia,2017-03,192505196.0,-0.17583740013061833,-5.213349633324459
+dau_tho__xuat_khau__tri_gia,xuat_khau,dầu thô,tri_gia,2017-04,243338505.0,0.2640620100456925,5.56386357660164
+dau_tho__xuat_khau__tri_gia,xuat_khau,dầu thô,tri_gia,2017-06,356306664.0,0.338075959668118,4.72733330090677
+dau_tho__xuat_khau__tri_gia,xuat_khau,dầu thô,tri_gia,2017-07,226984740.0,-0.36295117960521783,-3.891670220065495
+dau_tho__xuat_khau__tri_gia,xuat_khau,dầu thô,tri_gia,2019-10,238451353.0,1.8200482043969748,3.2686577376411594
+dau_tho__xuat_khau__tri_gia,xuat_khau,dầu thô,tri_gia,2020-08,259513560.0,1.7411120994794884,4.761784259767115
+dau_tho__xuat_khau__tri_gia,xuat_khau,dầu thô,tri_gia,2022-10,305003065.0,1.2009005330606901,8.459252234045124
+dau_tho__xuat_khau__tri_gia,xuat_khau,dầu thô,tri_gia,2023-10,178946434.0,1.7115998705012894,3.2908731467005214
+dau_tho__xuat_khau__tri_gia,xuat_khau,dầu thô,tri_gia,2024-09,171820164.0,2.8022036340330936,4.537731343435145
+dau_tho__xuat_khau__tri_gia,xuat_khau,dầu thô,tri_gia,2025-10,167482705.0,0.9578200285588352,3.2226055586235227
+dau_tho__xuat_khau__tri_gia,xuat_khau,dầu thô,tri_gia,2026-02,160847681.0,2.884168372348679,7.600242562390367
+dau_tho__xuat_khau__tri_gia,xuat_khau,dầu thô,tri_gia,2026-04,399820256.0,6.682957952674992,9.493898855757394
+gao__xuat_khau__so_luong,xuat_khau,gạo,so_luong,2010-03,708770.0,1.0175518499752352,4.056130415567061
+gao__xuat_khau__so_luong,xuat_khau,gạo,so_luong,2011-03,891757.0,0.8056439725272946,3.475955735712616
+gao__xuat_khau__so_luong,xuat_khau,gạo,so_luong,2011-09,454250.0,-0.4048999301731784,-3.1976023256653443
+gao__xuat_khau__so_luong,xuat_khau,gạo,so_luong,2012-02,446960.0,0.752571256043383,4.603823693253908
+gao__xuat_khau__so_luong,xuat_khau,gạo,so_luong,2013-03,741812.0,1.1046700334789765,8.474254688175447
+gao__xuat_khau__so_luong,xuat_khau,gạo,so_luong,2015-03,641088.0,2.760311576181315,10.092732994746381
+gao__xuat_khau__so_luong,xuat_khau,gạo,so_luong,2015-10,851128.0,0.8392030598353393,3.5557546333338603
+gao__xuat_khau__so_luong,xuat_khau,gạo,so_luong,2018-03,653828.0,0.9398776428143341,6.807559274900178
+gao__xuat_khau__so_luong,xuat_khau,gạo,so_luong,2019-03,688734.0,1.5070672728662586,6.556713475371814
+gao__xuat_khau__so_luong,xuat_khau,gạo,so_luong,2020-05,950546.0,0.7888892861914969,3.764699313425759
+gao__xuat_khau__so_luong,xuat_khau,gạo,so_luong,2024-03,1121662.0,1.0304551436500193,6.4257972924381495
+gao__xuat_khau__so_luong,xuat_khau,gạo,so_luong,2025-03,1078404.0,0.5477631862217438,3.2576605545098367
+gao__xuat_khau__tri_gia,xuat_khau,gạo,tri_gia,2013-03,323692514.0,1.0794931192497588,5.2948816491345925
+gao__xuat_khau__tri_gia,xuat_khau,gạo,tri_gia,2015-03,269301837.0,2.623180606975346,11.075255417520355
+gao__xuat_khau__tri_gia,xuat_khau,gạo,tri_gia,2015-10,349733129.0,0.8447397366006555,3.7344589189041004
+gao__xuat_khau__tri_gia,xuat_khau,gạo,tri_gia,2018-03,336119904.0,1.0041089133693566,7.550967533591252
+gao__xuat_khau__tri_gia,xuat_khau,gạo,tri_gia,2019-03,296736278.0,1.5449418971259217,4.597675177332103
+gao__xuat_khau__tri_gia,xuat_khau,gạo,tri_gia,2020-05,490815367.0,0.8512848663245385,4.11172369650913
+gao__xuat_khau__tri_gia,xuat_khau,gạo,tri_gia,2024-03,708042336.0,0.9389637189959448,6.322668798017649
+phan_bon_cac_loai__xuat_khau__so_luong,xuat_khau,phân bón các loại,so_luong,2015-03,75892.0,1.8180164123129479,4.6235148019684065
+phan_bon_cac_loai__xuat_khau__so_luong,xuat_khau,phân bón các loại,so_luong,2016-03,46741.0,1.0235951164602994,3.752633187214575
+phan_bon_cac_loai__xuat_khau__so_luong,xuat_khau,phân bón các loại,so_luong,2018-03,100724.0,0.5696186751024606,3.0471671345502815
+phan_bon_cac_loai__xuat_khau__so_luong,xuat_khau,phân bón các loại,so_luong,2019-04,80974.0,0.7245756394692564,5.0055676999614125
+phan_bon_cac_loai__xuat_khau__so_luong,xuat_khau,phân bón các loại,so_luong,2019-08,114927.0,0.7239222392223923,5.573629703949629
+phan_bon_cac_loai__xuat_khau__so_luong,xuat_khau,phân bón các loại,so_luong,2020-02,76411.0,0.6259735285355577,3.171812087767838
+phan_bon_cac_loai__xuat_khau__so_luong,xuat_khau,phân bón các loại,so_luong,2020-08,157658.0,1.016938094080622,7.742897580318039
+phan_bon_cac_loai__xuat_khau__so_luong,xuat_khau,phân bón các loại,so_luong,2023-12,162765.0,0.9483014531612841,3.3881916639480667
+phan_bon_cac_loai__xuat_khau__tri_gia,xuat_khau,phân bón các loại,tri_gia,2015-03,26006410.0,1.6218887867276406,5.180821064074246
+phan_bon_cac_loai__xuat_khau__tri_gia,xuat_khau,phân bón các loại,tri_gia,2016-03,13200036.0,1.220702577909016,5.582759674740395
+phan_bon_cac_loai__xuat_khau__tri_gia,xuat_khau,phân bón các loại,tri_gia,2016-06,29843307.0,1.0029960399572224,4.503824520992597
+phan_bon_cac_loai__xuat_khau__tri_gia,xuat_khau,phân bón các loại,tri_gia,2020-08,43620520.0,0.8753276249018012,5.547175822634694
+phan_bon_cac_loai__xuat_khau__tri_gia,xuat_khau,phân bón các loại,tri_gia,2023-12,71289502.0,0.9058947659630963,4.099936133044191
+phan_bon_cac_loai__xuat_khau__tri_gia,xuat_khau,phân bón các loại,tri_gia,2026-03,172604588.0,1.0203833941962528,3.9062090698057754
+san_pham_tu_sat_thep__xuat_khau__tri_gia,xuat_khau,sản phẩm từ sắt thép,tri_gia,2013-03,130723781.0,0.7376585183712661,3.961661668588645
+san_pham_tu_sat_thep__xuat_khau__tri_gia,xuat_khau,sản phẩm từ sắt thép,tri_gia,2014-03,152196343.0,0.3616887798040418,4.439974470960016
+san_pham_tu_sat_thep__xuat_khau__tri_gia,xuat_khau,sản phẩm từ sắt thép,tri_gia,2016-02,106672114.0,-0.2982071445925817,-4.492838345978242
+san_pham_tu_sat_thep__xuat_khau__tri_gia,xuat_khau,sản phẩm từ sắt thép,tri_gia,2016-03,178931668.0,0.6773987248438706,10.820422267723153
+san_pham_tu_sat_thep__xuat_khau__tri_gia,xuat_khau,sản phẩm từ sắt thép,tri_gia,2018-02,181838766.0,-0.2979703631066004,-3.7124655438752274
+san_pham_tu_sat_thep__xuat_khau__tri_gia,xuat_khau,sản phẩm từ sắt thép,tri_gia,2018-03,262225550.0,0.44207726310681195,4.5485515279556
+san_pham_tu_sat_thep__xuat_khau__tri_gia,xuat_khau,sản phẩm từ sắt thép,tri_gia,2019-02,172186365.0,-0.4045815023168109,-5.497242055875909
+san_pham_tu_sat_thep__xuat_khau__tri_gia,xuat_khau,sản phẩm từ sắt thép,tri_gia,2019-03,290081344.0,0.6846940464769089,8.984922257622404
+san_pham_tu_sat_thep__xuat_khau__tri_gia,xuat_khau,sản phẩm từ sắt thép,tri_gia,2022-03,447364697.0,0.512373269709208,3.6851107067475626
+san_pham_tu_sat_thep__xuat_khau__tri_gia,xuat_khau,sản phẩm từ sắt thép,tri_gia,2023-03,391420002.0,0.2171944667139638,3.7114407399512723
+san_pham_tu_sat_thep__xuat_khau__tri_gia,xuat_khau,sản phẩm từ sắt thép,tri_gia,2026-03,506365843.0,0.4363615944181991,3.5617205667178298
+sat_thep_cac_loai__xuat_khau__so_luong,xuat_khau,sắt thép các loại,so_luong,2012-10,203879.0,0.4397624394446562,4.478731326918281
+sat_thep_cac_loai__xuat_khau__so_luong,xuat_khau,sắt thép các loại,so_luong,2014-03,267721.0,0.3482517412083457,3.058828988044356
+sat_thep_cac_loai__xuat_khau__so_luong,xuat_khau,sắt thép các loại,so_luong,2016-03,278773.0,0.3737667918354475,4.570354436337178
+sat_thep_cac_loai__xuat_khau__so_luong,xuat_khau,sắt thép các loại,so_luong,2018-04,472927.0,-0.07462999052963593,-3.79197212157539
+sat_thep_cac_loai__xuat_khau__so_luong,xuat_khau,sắt thép các loại,so_luong,2019-01,742390.0,0.5064548727085303,3.7816535534150124
+sat_thep_cac_loai__xuat_khau__so_luong,xuat_khau,sắt thép các loại,so_luong,2020-02,691768.0,0.42052359332294276,3.787617039149736
+sat_thep_cac_loai__xuat_khau__so_luong,xuat_khau,sắt thép các loại,so_luong,2020-06,877866.0,1.0523787146594472,3.7794134329281657
+sat_thep_cac_loai__xuat_khau__so_luong,xuat_khau,sắt thép các loại,so_luong,2022-03,950241.0,0.7923935022408668,6.257157435167799
+sat_thep_cac_loai__xuat_khau__so_luong,xuat_khau,sắt thép các loại,so_luong,2024-08,1344155.0,0.2998295137515581,3.2164380387179827
+sat_thep_cac_loai__xuat_khau__so_luong,xuat_khau,sắt thép các loại,so_luong,2024-09,1080429.0,-0.1962020749095157,-3.192884680281523
+sat_thep_cac_loai__xuat_khau__tri_gia,xuat_khau,sắt thép các loại,tri_gia,2012-10,162237484.0,0.3791748793409413,9.333147156953004
+sat_thep_cac_loai__xuat_khau__tri_gia,xuat_khau,sắt thép các loại,tri_gia,2014-03,200646020.0,0.31721380036264835,3.5951217328908753
+sat_thep_cac_loai__xuat_khau__tri_gia,xuat_khau,sắt thép các loại,tri_gia,2016-03,147407778.0,0.3819773894178293,7.414127868018795
+sat_thep_cac_loai__xuat_khau__tri_gia,xuat_khau,sắt thép các loại,tri_gia,2020-01,268299053.0,-0.2527992541890942,-3.378568499858902
+sat_thep_cac_loai__xuat_khau__tri_gia,xuat_khau,sắt thép các loại,tri_gia,2020-02,385285998.0,0.4360318968401278,5.620993312519771
+sat_thep_cac_loai__xuat_khau__tri_gia,xuat_khau,sắt thép các loại,tri_gia,2020-06,416667224.0,0.6978221739481769,3.980321646556349
+sat_thep_cac_loai__xuat_khau__tri_gia,xuat_khau,sắt thép các loại,tri_gia,2022-03,903445922.0,0.750654549040233,3.6390299186272888
+sat_thep_cac_loai__xuat_khau__tri_gia,xuat_khau,sắt thép các loại,tri_gia,2024-09,744891543.0,-0.19521692378389555,-3.264129822684311
+than_da__xuat_khau__so_luong,xuat_khau,than đá,so_luong,2010-01,1344019.0,-0.44543673921412397,-3.750546195702421
+than_da__xuat_khau__so_luong,xuat_khau,than đá,so_luong,2010-07,1208640.0,-0.3661492085518253,-3.2214750183757874
+than_da__xuat_khau__so_luong,xuat_khau,than đá,so_luong,2010-11,1908311.0,1.4474217125825453,6.950900728676848
+than_da__xuat_khau__so_luong,xuat_khau,than đá,so_luong,2011-03,1436129.0,2.166893063010219,6.353599485071025
+than_da__xuat_khau__so_luong,xuat_khau,than đá,so_luong,2013-08,376356.0,1.9110569671655644,5.3208300396093335
+than_da__xuat_khau__so_luong,xuat_khau,than đá,so_luong,2014-08,525108.0,2.0975254387258517,5.306783522837835
+than_da__xuat_khau__so_luong,xuat_khau,than đá,so_luong,2016-03,31374.0,8.27401714454626,16.091806584874714
+than_da__xuat_khau__so_luong,xuat_khau,than đá,so_luong,2016-05,143045.0,2.8498492840994727,4.946973905577795
+than_da__xuat_khau__tri_gia,xuat_khau,than đá,tri_gia,2010-11,161737974.0,1.1823808308190684,6.325776670188733
+than_da__xuat_khau__tri_gia,xuat_khau,than đá,tri_gia,2011-03,136977783.0,1.4394144049805462,5.64790695502617
+than_da__xuat_khau__tri_gia,xuat_khau,than đá,tri_gia,2014-08,37537022.0,1.4454927179254113,4.5809026457658515
+than_da__xuat_khau__tri_gia,xuat_khau,than đá,tri_gia,2016-03,2312882.0,3.217486045845847,5.9731294517981945
+than_da__xuat_khau__tri_gia,xuat_khau,than đá,tri_gia,2016-05,14525084.0,2.9258257024552146,3.2319739118385886
+xang_dau_cac_loai__xuat_khau__so_luong,xuat_khau,xăng dầu các loại,so_luong,2011-09,136833.0,-0.33048073394495414,-4.313779421446336
+xang_dau_cac_loai__xuat_khau__so_luong,xuat_khau,xăng dầu các loại,so_luong,2011-10,186102.0,0.3600666505886738,4.3118990058855475
+xang_dau_cac_loai__xuat_khau__so_luong,xuat_khau,xăng dầu các loại,so_luong,2012-09,76441.0,-0.47540027313966493,-3.370882995229433
+xang_dau_cac_loai__xuat_khau__so_luong,xuat_khau,xăng dầu các loại,so_luong,2012-10,160200.0,1.095733964757133,7.696090749417344
+xang_dau_cac_loai__xuat_khau__so_luong,xuat_khau,xăng dầu các loại,so_luong,2014-10,88772.0,0.63619942862409,3.19039036274659
+xang_dau_cac_loai__xuat_khau__so_luong,xuat_khau,xăng dầu các loại,so_luong,2022-12,257356.0,0.6909067017082786,4.061168114329818
+xang_dau_cac_loai__xuat_khau__so_luong,xuat_khau,xăng dầu các loại,so_luong,2026-04,109502.0,6.217374110203005,16.552932576745576
+xang_dau_cac_loai__xuat_khau__tri_gia,xuat_khau,xăng dầu các loại,tri_gia,2012-09,75014428.0,-0.4456886980099566,-4.477469921168537
+xang_dau_cac_loai__xuat_khau__tri_gia,xuat_khau,xăng dầu các loại,tri_gia,2012-10,148550780.0,0.9802961105029022,10.677979181122845
+xang_dau_cac_loai__xuat_khau__tri_gia,xuat_khau,xăng dầu các loại,tri_gia,2014-10,84882642.0,0.5794013841995151,3.2867501939296084
+xang_dau_cac_loai__xuat_khau__tri_gia,xuat_khau,xăng dầu các loại,tri_gia,2020-11,86233750.0,0.7900330816857895,3.351583612349788
+xang_dau_cac_loai__xuat_khau__tri_gia,xuat_khau,xăng dầu các loại,tri_gia,2024-10,170646940.0,0.4398817211935,3.88879837077705
+xang_dau_cac_loai__xuat_khau__tri_gia,xuat_khau,xăng dầu các loại,tri_gia,2025-01,75262069.0,-0.5258831635370609,-3.2228539559675506
+xang_dau_cac_loai__xuat_khau__tri_gia,xuat_khau,xăng dầu các loại,tri_gia,2025-03,116174757.0,0.6469510162782894,3.165327125118369
+xang_dau_cac_loai__xuat_khau__tri_gia,xuat_khau,xăng dầu các loại,tri_gia,2026-04,135242340.0,14.03536819060746,35.22381710210432

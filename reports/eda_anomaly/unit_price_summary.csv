@@ -1,0 +1,16 @@
+﻿series_id,loai,ten_mat_hang,n_valid,median_unit_price,cv,spike_count_z3,max_abs_robust_z
+dau_tho__nhap_khau__don_gia,nhap_khau,dầu thô,154,595.253583833608,0.302639896056199,9,16.106570524702793
+khi_dot_hoa_long__nhap_khau__don_gia,nhap_khau,khí đốt hóa lỏng,200,647.600618570963,0.28531963852919234,7,9.55362411851433
+phan_bon_cac_loai__nhap_khau__don_gia,nhap_khau,phân bón các loại,200,324.2328762525486,0.19815872191827213,6,5.519526306737734
+phe_lieu_sat_thep__nhap_khau__don_gia,nhap_khau,phế liệu sắt thép,200,360.76809263225186,0.2165934327071376,6,6.434230678219332
+sat_thep_cac_loai__nhap_khau__don_gia,nhap_khau,sắt thép các loại,200,706.6848963931207,0.21928049599479235,6,6.876007736825703
+than_da__nhap_khau__don_gia,nhap_khau,than đá,48,101.4869725938064,0.2562032806858118,5,6.734471858578338
+ure__nhap_khau__don_gia,nhap_khau,ure,105,0.3350314465408805,0.2822566697580547,7,29.73161057676239
+xang_dau_cac_loai__nhap_khau__don_gia,nhap_khau,xăng dầu các loại,200,691.7815978297331,0.3031729071507146,10,22.563072564534394
+clanhke_va_xi_mang__xuat_khau__don_gia,xuat_khau,clanhke và xi măng,164,39.77915869592279,0.08051394855465753,5,5.820868268937257
+dau_tho__xuat_khau__don_gia,xuat_khau,dầu thô,212,597.3582284691395,0.3132287805051408,12,10.36198327465291
+gao__xuat_khau__don_gia,xuat_khau,gạo,212,481.83915508762783,0.12153364292795488,3,4.108908414989615
+phan_bon_cac_loai__xuat_khau__don_gia,xuat_khau,phân bón các loại,188,368.06356372419935,0.25247040303618734,7,9.194855583796016
+sat_thep_cac_loai__xuat_khau__don_gia,xuat_khau,sắt thép các loại,212,727.5485530456442,0.17372679604795804,7,4.755832173954241
+than_da__xuat_khau__don_gia,xuat_khau,than đá,97,83.9516038142382,0.2592471655197402,6,14.608409035741596
+xang_dau_cac_loai__xuat_khau__don_gia,xuat_khau,xăng dầu các loại,212,676.945802164435,0.2993901683251548,14,13.304147921713724
